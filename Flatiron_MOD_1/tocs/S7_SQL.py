@@ -1,0 +1,56 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+#  # Section 7: SQL notes and Labs <br><br>
+#  
+# [sql-introduction](./dsc-sql-introduction-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [selecting-data](./dsc-selecting-data-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [selecting-data-lab](./dsc-selecting-data-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [filtering-and-ordering](./dsc-filtering-and-ordering-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [filtering-and-ordering-lab](./dsc-filtering-and-ordering-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [grouping-data-with-sql](./dsc-grouping-data-with-sql-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [grouping-data-with-sql-lab](./dsc-grouping-data-with-sql-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [join-statements](./dsc-join-statements-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [join-statements-lab](./dsc-join-statements-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [one-to-many-and-many-to-many-joins](./dsc-one-to-many-and-many-to-many-joins-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [one-to-many-and-many-to-many-joins-lab](./dsc-one-to-many-and-many-to-many-joins-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [sql-subqueries](./dsc-sql-subqueries-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [sql-subqueries-lab](./dsc-sql-subqueries-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [using-sql-with-pandas](./dsc-using-sql-with-pandas-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [using-sql-with-pandas-lab](./dsc-using-sql-with-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [dsc-sql-database-data-types](./dsc-sql-database-data-types/index.ipynb)<br>
+# 
+# [database-admin-101](./dsc-database-admin-101-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [database-admin-101-lab](./dsc-database-admin-101-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [more-practice-with-sql-queries-lab](./dsc-more-practice-with-sql-queries-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [sql-interview-questions-quiz](./dsc-sql-interview-questions-quiz-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [sql-interview-questions-lab](./dsc-sql-interview-questions-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# [sql-recap](./dsc-sql-recap-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br>
+# 
+# 
+
+# In[ ]:
+
+
+
+

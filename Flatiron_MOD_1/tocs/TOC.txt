@@ -1,0 +1,354 @@
+ # Section 1: Data Science Introduction<br>
+ The order of the content and summary important commands of the leasson.<br>
+ ## Getting Started with Data Science - Introduction<br>
+ [See Introduction Notebook](./S1_Data_Science_Introduction/dsc-introduction-section-intro-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Problems Data Science Can Solve Notebook](./S1_Data_Science_Introduction/dsc-problems-data-science-can-solve-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See The Data Science Process Notebook](./S1_Data_Science_Introduction/dsc-the-data-science-process-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Working with Lessons on Learn Notebook](./S1_Data_Science_Introduction/dsc-learn-lessons-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Working with Lessons on Learn Lab](./S1_Data_Science_Introduction/dsc-learn-lessons-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Your First Data Science Codealong!](./S1_Data_Science_Introduction/dsc-first-codealong-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## Setting up a Professional Data Science Environment<br>
+ [See Environment lab](./S1_Data_Science_Introduction/dsc-data-science-env-installation-v2-1-onl01-dtsc-ft-030220/README.ipynb)<br>
+ [See Environment lab2](./S1_Data_Science_Introduction/dsc-data-science-env-setup-v2-1-onl01-dtsc-ft-030220/README.ipynb)<br>
+ These README.md 's don't work. Go to the folder.<br>
+ ## Introduction to python<br>
+ [Introduction to Variables: Variable Assignment Notebook](./S1_Data_Science_Introduction/dsc-variable-assignment-intro-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Introduction to Variables: Strings Notebook](./S1_Data_Science_Introduction/dsc-strings-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Introduction to Variables: Strings Lab](./S1_Data_Science_Introduction/dsc-strings-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Introduction to Variables: Numeric Types and Booleans Notebook](./S1_Data_Science_Introduction/dsc-floats-ints-booleans-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Introduction to Variables: Strings and Numeric Types Lab](./S1_Data_Science_Introduction/dsc-strings-floats-ints-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Introduction to Variables: Variable Assignment Lab](./S1_Data_Science_Introduction/dsc-variable-assignment-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ##  Python Control Flow statements<br>
+ [Conditionals Notebook](./S1_Data_Science_Introduction/dsc-conditionals-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Conditionals Lab](./S1_Data_Science_Introduction/dsc-conditionals-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Working with Lists Notebook](./S1_Data_Science_Introduction/dsc-lists-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Working with Lists Lab](./S1_Data_Science_Introduction/dsc-lists-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Working With Dictionaries Notebook](./S1_Data_Science_Introduction/dsc-dictionaries-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Working With Dictionaries Lab](./S1_Data_Science_Introduction/dsc-dictionaries-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Looping Over Collections Notebook](./S1_Data_Science_Introduction/dsc-looping-over-collections-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Looping Over Collections Lab](./S1_Data_Science_Introduction/dsc-looping-over-collections-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Data Visualization Notebook](./S1_Data_Science_Introduction/dsc-data-viz-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Data Visualization Lab](./S1_Data_Science_Introduction/dsc-data-viz-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## Project: Analyzing Macbeth<br>
+ [Project Notebook](./S1_Data_Science_Introduction/dsc-analyzing-macbeth-project-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Getting Started with Data Science - Recap Notebook](./S1_Data_Science_Introduction/dsc-pandas-data-cleaning-recap-onl01-dtsc-ft-030220/index.ipynb)<br>
+ In[ ]:<br>
+ # Section 2: Bash and Git env setup TOC and Notes<br>
+ The order of the content and summary important commands of the leasson.<br>
+ [Bash and Git - Introduction](./S2_Git_env_setup/dsc-git-bash-collab-intro-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [The Bash Shell](./S2_Git_env_setup/dsc-bash-shell-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Git Version Control 101](./S2_Git_env_setup/dsc-git-version-control-101-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Getting Started with Git](./S2_Git_env_setup/dsc-git-intro-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Quiz: Git Basics](./S2_Git_env_setup/dsc-git-intro-qz/index.ipynb)<br>
+ [Practicing Git](./S2_Git_env_setup/dsc-git-practice-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Collaborating with Git Branches](./S2_Git_env_setup/dsc-git-branches-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Git Merge - Lab](./S2_Git_env_setup/dsc-git-merge-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Git Stash - Lab](./S2_Git_env_setup/dsc-git-stash-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Git Resources](./S2_Git_env_setup/dsc-git-resources-onl01-dtsc-ft-030220/README.md)<br>
+ [Code Best Practices: PEP8](./S2_Git_env_setup/dsc-dealing-missing-data-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Bash and Git - Recap](./S2_Git_env_setup/dsc-git-collab-recap-onl01-dtsc-ft-030220/index.ipynb)<br>
+ # <u>Section 3: Control flow, Functions, and Statistics: TOC and Notes</u><br>
+ The order of the content and summary important commands of the leasson.<br>
+ (markup tricks __bold__ or **bold** and _italic_ or *italic*)<br>
+ # __Control flow and Functions__<br>
+ ## 1. Introduction<br>
+ [Control flow, Functions, and Statistics - Introduction](./S3_controlflow_functions_stat/dsc-python-section-intro-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Built-in Python Operators, Functions and Methods](./S3_controlflow_functions_stat/dsc-python-operators-functions-and-methods-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Built-in Python Operators, Functions and Methods Lab](./S3_controlflow_functions_stat/dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 2. Loops, Break and Continue<br>
+ [While Loops Notebook](./S3_controlflow_functions_stat/dsc-while-loops-break-and-continue-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [While Loops Lab](./S3_controlflow_functions_stat/dsc-while-loops-break-and-continue-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Nested Loops Notebook](./S3_controlflow_functions_stat/dsc-using-nested-loops-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Nested Loops Lab](./S3_controlflow_functions_stat/dsc-using-nested-loops-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 3. Functions<br>
+ [Creating Functions Notebook](./S3_controlflow_functions_stat/dsc-creating-functions-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Creating Functions Lab](./S3_controlflow_functions_stat/dsc-creating-functions-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Functions with Arguments Notebook](./S3_controlflow_functions_stat/dsc-functions-with-arguments-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Functions with Arguments Lab](./S3_controlflow_functions_stat/dsc-functions-with-arguments-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 4. python I/O<br>
+ [See Notebook](./S3_controlflow_functions_stat/dsc-user-input-and-output-in-python-onl01-dtsc-ft-030220/index.ipynb)<br>
+ No designated lab. Can add in some extra materials from web<br>
+ # **Statistics**<br>
+ ## 5. Statistics introduction<br>
+ [Mathematical Notation Notebook](./S3_controlflow_functions_stat/dsc-mathematical-notation-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Measures of Central Tendency Notebook](./S3_controlflow_functions_stat/dsc-measures-of-central-tendency-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Measures of Central Tendency - Quiz](./S3_controlflow_functions_stat/dsc-measures-of-central-tendency-quiz/index.ipynb)<br>
+ [Measures of Dispersion Notebook](./S3_controlflow_functions_stat/dsc-measures-of-dispersion-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [Measures of Dispersion Notebook - quiz](./S3_controlflow_functions_stat/dsc-measures-of-dispersion-quiz/index.ipynb)<br>
+ [Implementing Statistics with Functions - Lab](./S3_controlflow_functions_stat/dsc-implementing-statistics-with-functions-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 6. Covariance and Correlation<br>
+ [Covariance and Correlation Notebook](./S3_controlflow_functions_stat/dsc-correlation-covariance-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Covariance and Correlation - Lab](./S3_controlflow_functions_stat/dsc-correlation-covariance-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 7. Control flow, Functions, and Statistics - Recap<br>
+ [See Notebook](./S3_controlflow_functions_stat/dsc-python-section-recap/index.ipynb)<br>
+ In[ ]:<br>
+ # Section 4:<br>
+ # <h1 align="center" style="font-size:300%">Section 4: Python Libraries</h1><br>
+ The order of the content and summary important commands of the leasson.<br>
+ ## 1. Python Libraries: Numpy and Pandas - Introduction<br>
+ [Numpy and Pandas - Introduction Notebook](./S4_pandas_visualization/dsc-numpy-and-pandas-section-intro-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Introducing Python Libraries Notebook](./S4_pandas_visualization/dsc-introducing-python-libraries-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Introduction to Numpy Notebook](./S4_pandas_visualization/dsc-introduction-to-numpy-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Getting Started with NumPy Notebook](./S4_pandas_visualization/dsc-getting-started-with-numpy-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Getting Started with NumPy - Lab](./S4_pandas_visualization/dsc-getting-started-with-numpy-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ <p id="demo"></p><br>
+ <script><br>
+ document.getElementById("demo").innerHTML = 5 + 6;<br>
+ </script><br>
+ ### this shit works. but notice that script tag is ignored<br>
+ <!DOCTYPE html><br>
+ <html><br>
+ <body><br>
+ <h3>My First Web Page inside a Jupyter notebook</h3><br>
+ <p>My First Paragraph.</p><br>
+ <p id="demo"></p><br>
+ <script><br>
+ document.getElementById("demo").innerHTML = "This is from JS";<br>
+ </script><br>
+ </body><br>
+ </html><br>
+ ## 2. Accessing Data within Pandas<br>
+ [See Notebook](./S4_pandas_visualization/dsc-accessing-data-with-pandas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Accessing Data within Pandas - Lab](./S4_pandas_visualization/dsc-accessing-data-with-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 3.  Importing Data Using Pandas<br>
+ [Importing Data Using Pandas Notebook](./S4_pandas_visualization/dsc-importing-data-using-pandas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Importing Data Using Pandas - Lab](./S4_pandas_visualization/dsc-importing-data-using-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 4. Understanding Pandas Series and DataFrames<br>
+ [See Notebook](./S4_pandas_visualization/dsc-pandas-series-and-dataframes-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Understanding Pandas Series and DataFrames - Lab](./S4_pandas_visualization/dsc-pandas-series-and-dataframes-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 5. Statistical Methods in Pandas<br>
+ [Statistical Methods in Pandas Notebook](./S4_pandas_visualization/dsc-statistical-methods-in-pandas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Statistical Methods in Pandas - Lab](./S4_pandas_visualization/dsc-statistical-methods-in-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 6. Data Visualization with Pandas<br>
+ [Data Visualization with Pandas Notebook](./S4_pandas_visualization/dsc-data-visualization-with-pandas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 7. Data Privacy and Ethics<br>
+ [See Notebook](./S4_pandas_visualization/dsc-data-ethics-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 8. Kaggle and The Boston Housing Dataset<br>
+ [See kaggle dscription](./S4_pandas_visualization/dsc-kaggle-and-boston-housing-dataset-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [Project - EDA with Pandas Using the Boston Housing Data](./S4_pandas_visualization/dsc-project-eda-with-pandas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 9. Python Libraries: Numpy and Pandas - Recap<br>
+ [See Recap](./S4_pandas_visualization/dsc-numpy-and-pandas-section-recap/index.ipynb)<br>
+ In[ ]:<br>
+ # Section 5: S5_Data_Cleaning TOC and Notes<br>
+ The order of the content and summary important commands of the leasson.<br>
+ ## 1. Data Cleaning in Pandas - Introduction<br>
+ [See Notebook](./S5_Data_Cleaning/dsc-introduction-pandas-etl-onl01-dtsc-ft-030220/index.ipynb)<br>
+ Extract Transform Load (ETL) --> primary tool is pandas. <br><br>
+ df = pd.read_csv('Yelp_Reviews.csv', index_col=0)<br><br>
+ df['Review_Word_Length'] = df['text'].map(lambda x: len(x.split())) # apply function to col <br><br>
+ df.groupby('business_id')['stars'].mean().head() # Group data <br><br>
+ df[df.duplicated(keep=False)].sort_values(by='business_id') # Use the keep=False to keep the duplicates and sort values to put  duplicates next to each other <br><br>
+ df = df[df.duplicated()] # remove duplicates <br><br>
+ // Pivot table [wikipeida](https://en.wikipedia.org/wiki/Pivot_table) <br><br>
+ usr_reviews = df.pivot(index='user_id', columns='business_id', values='stars') # Here user_id are the rows and business_id are cols number of stars are in the cell. Some cells will be NaN.<br>
+ ## 2. Lambda Functions<br>
+ [See Notebook](./S5_Data_Cleaning/dsc-lambda-functions-onl01-dtsc-ft-030220/index.ipynb)<br>
+ throw-away functions on the fly <br><br>
+ df['text'].map(lambda x: len(x.split())).head() # labda Fn example <br><br>
+ df['text'].map(lambda x: 'Good' if any([word in x.lower() for word in ['awesome', 'love', 'good', 'great']]) else 'Bad').head() # Lambda Fn--> t is an interesting demonstration of chaining a conditional, any method, and a list comprehension all inside a lambda function!<br><br>
+ df.date.map(lambda x: x[:4]).head() # ways to access df cols are many I guess ?? <br><br>
+ sorted(names, key=lambda x: x.split()[1]) # because in names there are First and Last name <br><br>
+ [See Lab](./S5_Data_Cleaning/dsc-lambda-functions-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 3. Pandas Groupby<br>
+ [See Notebook](./S5_Data_Cleaning/dsc-pandas-groupby-onl01-dtsc-ft-030220/index.ipynb)<br>
+ df.groupby('Sex') <==> df.groupby(df['Sex'])<br>   # equivalent statements<br>
+ df.groupby('Sex').sum()     # use an <b>aggregation function</b> by chaining the call to the end <br><br>
+ * .min(): returns the minimum value for each column by group<br>
+ * .max(): returns the maximum value for each column by group<br>
+ * .mean(): returns the average value for each column by group<br>
+ * .median(): returns the median value for each column by group<br>
+ * .count(): returns the count of each column by group<br>
+ df.groupby(['Sex', 'Pclass']).mean()   #  <b>Multiple groups</b><br>
+ grouped = df.groupby(['Sex', 'Pclass'])['Survived'].mean()   <br><br>
+ print(grouped['female'])  <br><br>
+ ## 4. Combining DataFrames with Pandas<br>
+ [See Notebook](./S5_Data_Cleaning/dsc-combining-dataframes-pandas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ When thinking about joins, it is easy to conceptualize them as Venn diagrams.<br>
+ * An <b>Outer Join</b> returns all records from both tables<br>
+ * An <b>Inner Join</b> returns only the records with matching keys in both tables<br>
+ * A <b>Left Join</b> returns all the records from the left table, as well as any records from the right table that have a matching key with a record from the left table<br>
+ * A <b>Right Join</b> returns all the records from the right table, as well as any records from the left table that have a matching key with a record from the right table<br>
+ joined_df = df1.join(df2, how='inner')    # df1 inner join df2 <br><br>
+ [See Lab](./S5_Data_Cleaning/dsc-combining-dataframes-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 5. Pivot Tables With Pandas<br>
+ [See Notebook](./S5_Data_Cleaning/dsc-pivot-tables-pandas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ * <b>Wide</b> format = each column is a variable and each row is observation ; <b>Long</b> format =  each index is a point in time for each observation<br>
+ * <b>flattened</b> index structures =<br>
+ * <b>multi-hierarchical</b> index structures = structuring our data with multiple levels of indexes, allowing us to cleanly and easily represent different combinations of data<br>
+ some_dataframe.pivot(index='State', columns='Gender', values='Deaths_mean')<br><br>
+ .stack() and unstack() methods <br><br>
+ [See Lab](./S5_Data_Cleaning/dsc-pivot-tables-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 6. Dealing with Missing Data<br>
+ [See Notebook](./S5_Data_Cleaning/dsc-dealing-missing-data-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ///Take Notes later<br>
+ [Take the Quiz](./S5_Data_Cleaning/dsc-dealing-missing-data-quiz/README.md)<br>
+ [See Lab](./S5_Data_Cleaning/dsc-dealing-missing-data-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 7. More on Missing Data<br>
+ [See Notebook](./S5_Data_Cleaning/dsc-more-on-missing-data-onl01-dtsc-ft-030220/index.ipynb)<br>
+ // add notes here later<br>
+ [See Lab](./S5_Data_Cleaning/dsc-more-on-missing-data-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 8. Project - Data Cleaning<br>
+ [See Project](./S5_Data_Cleaning/dsc-data-cleaning-project-onl01-dtsc-ft-030220/index.ipynb)<br>
+ Project summary......<br>
+ ## 9. Data Cleaning in Pandas - Recap<br>
+ [See Notebook](./S5_Data_Cleaning/dsc-summary-data-cleaning-pandas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ summary notes<br>
+ ## 10. The 3-17-2020 study group code along<br>
+ [See Notebook](./S5_Data_Cleaning/Groupby_StudyGroup_codealong.ipynb)<br>
+ In[ ]:<br>
+ # Section 6: S6_Seaborn_viz TOC and Notes<br>
+ The order of the content and summary important commands of the leasson.<br>
+ ## Data Visualization - Introduction<br>
+ [See Notebook](./S6_Seaborn_viz/dsc-visualizations-section-intro-onl01-dtsc-ft-030220/index.ipynb)<br>
+ advanced visualization library = Seaborn, Matplotlib.<br>
+ ## Customizing Visualizations with Matplotlib<br>
+ [See Notebook](./S6_Seaborn_viz/dsc-more-practice-with-matplotlib-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Customizing Visualizations with Matplotlib Lab](./S6_Seaborn_viz/dsc-more-practice-with-matplotlib-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [See Subplots and Enumeration Lab](./S6_Seaborn_viz/dsc-subplots-and-enumeration-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## Data Visualization - Best Practices and Common Mistakes<br>
+ [See Notebook](./S6_Seaborn_viz/dsc-data-viz-best-practices-common-mistakes-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## Seaborn<br>
+ [See Notebook](./S6_Seaborn_viz/dsc-seaborn-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Seaborn Lab](./S6_Seaborn_viz/dsc-seaborn-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ ## Data Visualization - Recap<br>
+ [See Notebook](./S6_Seaborn_viz/dsc-visualizations-section-recap-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## special lecture of Plotly by Rafael<br>
+ [see lab](./S6_Seaborn_viz/additional-topic-plotly/plotly.ipynb)<br>
+<<<<<<< HEAD
+  # Section 7: SQL notes and Labs <br><br><br>
+ [sql-introduction](./S7_SQL/dsc-sql-introduction-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [selecting-data](./S7_SQL/dsc-selecting-data-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [selecting-data-lab](./S7_SQL/dsc-selecting-data-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [filtering-and-ordering](./S7_SQL/dsc-filtering-and-ordering-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [filtering-and-ordering-lab](./S7_SQL/dsc-filtering-and-ordering-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [grouping-data-with-sql](./S7_SQL/dsc-grouping-data-with-sql-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [grouping-data-with-sql-lab](./S7_SQL/dsc-grouping-data-with-sql-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [join-statements](./S7_SQL/dsc-join-statements-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [join-statements-lab](./S7_SQL/dsc-join-statements-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [one-to-many-and-many-to-many-joins](./S7_SQL/dsc-one-to-many-and-many-to-many-joins-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [one-to-many-and-many-to-many-joins-lab](./S7_SQL/dsc-one-to-many-and-many-to-many-joins-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [sql-subqueries](./S7_SQL/dsc-sql-subqueries-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [sql-subqueries-lab](./S7_SQL/dsc-sql-subqueries-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [using-sql-with-pandas](./S7_SQL/dsc-using-sql-with-pandas-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [using-sql-with-pandas-lab](./S7_SQL/dsc-using-sql-with-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [dsc-sql-database-data-types](./S7_SQL/dsc-sql-database-data-types/index.ipynb)<br><br>
+ [database-admin-101](./S7_SQL/dsc-database-admin-101-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [database-admin-101-lab](./S7_SQL/dsc-database-admin-101-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [more-practice-with-sql-queries-lab](./S7_SQL/dsc-more-practice-with-sql-queries-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [sql-interview-questions-quiz](./S7_SQL/dsc-sql-interview-questions-quiz-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [sql-interview-questions-lab](./S7_SQL/dsc-sql-interview-questions-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [sql-recap](./S7_SQL/dsc-sql-recap-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ In[ ]:<br>
+ # Section 08 - No SQL lessons and labs<br>
+ [nosql-databases-section-intro](./S8_No_SQL/dsc-nosql-databases-section-intro-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [nosql-document-stores-v2-1](./S8_No_SQL/dsc-nosql-document-stores-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [mongodb](./S8_No_SQL/dsc-mongodb-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [mongodb-lab](./S8_No_SQL/dsc-mongodb-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [nosql-databases-section-recap-v2-1](./S8_No_SQL/dsc-nosql-databases-section-recap-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ In[ ]:<br>
+ # Section 9: TOC and Notes<br>
+ In this section, you’ll learn about an additional data type: JSON (which stands for JavaScript Object Notation), as well as APIs (Application Programming Interfaces).<br>
+ ## 1.  JSON and APIs - Introduction<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-json-apis-intro-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br>
+ Whether it’s from an API or a NoSQL store, it's quite possible that some of the data you find yourself working with will be stored using JSON. In this section, you'll build the confidence to be able to import and transform such data.<br>
+ Also, many companies provide access to their data via an API, so being able to connect to and work with data provided via an API is a critical skill as a professional data scientist!<br>
+ ## 2.  JSON<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-json-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br>
+ Use the JSON module to load and parse JSON documents<br>
+ [See JSON Lab](./S9_JSON_and_APIs/dsc-json-lab-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 3. Working with Known JSON Schemas<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-working-with-known-json-schemas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Working with Known JSON Schemas Lab](./S9_JSON_and_APIs/dsc-working-with-known-json-schemas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 4. Exploring and Transforming JSON Schemas<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-exploring-and-transforming-json-schemas-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Exploring and Transforming JSON Schemas Lab](./S9_JSON_and_APIs/dsc-exploring-and-transforming-json-schemas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 5.<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-join-statements-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Join Statements Lab](./S9_JSON_and_APIs/dsc-join-statements-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 6.<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-one-to-many-and-many-to-many-joins-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See One-to-Many and Many-to-Many Joins Lab](./S9_JSON_and_APIs/dsc-one-to-many-and-many-to-many-joins-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 7.<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-sql-subqueries-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See SQL Subqueries Lab](./S9_JSON_and_APIs/dsc-sql-subqueries-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 8.<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-using-sql-with-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Using SQL with Pandas Lab](./S9_JSON_and_APIs/dsc-using-sql-with-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 9.<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-sql-database-data-types/index.ipynb)<br>
+ [See SQL Database Data Types Lab](./S9_JSON_and_APIs/dsc-using-sql-with-pandas-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 10.<br>
+ [See Notebook](./S9_JSON_and_APIs/dsc-database-admin-101-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See Database Admin 101 Lab](./S9_JSON_and_APIs/dsc-database-admin-101-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 11.<br>
+ [See More Practice with SQL Queries Lab](./S9_JSON_and_APIs/dsc-more-practice-with-sql-queries-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See SQL Interview Questions - Quiz](./S9_JSON_and_APIs/dsc-sql-interview-questions-quiz-onl01-dtsc-ft-030220/index.ipynb)<br>
+ [See SQL Interview Questions Lab](./S9_JSON_and_APIs/dsc-sql-interview-questions-lab-onl01-dtsc-ft-030220/index.ipynb)<br>
+ ## 12.<br>
+ [See Recap notes](./S9_JSON_and_APIs/dsc-sql-recap-v2-1-onl01-dtsc-ft-030220/index.ipynb)<br>
+ # practice projects<br>
+ <!DOCTYPE html><br>
+ <html><br>
+ <body><br>
+ <h2>Basic HTML Table and Markup the Jupyter notebook</h2><br>
+ <table style="width:100%"><br>
+   <tr><br>
+     <th>Firstname</th><br>
+     <th>Lastname</th><br>
+     <th>Age</th><br>
+   </tr><br>
+   <tr><br>
+     <td>Jill</td><br>
+     <td>Smith</td><br>
+     <td>50</td><br>
+   </tr><br>
+   <tr><br>
+     <td>Eve</td><br>
+     <td>Jackson</td><br>
+     <td>94</td><br>
+   </tr><br>
+   <tr><br>
+     <td>John</td><br>
+     <td>Doe</td><br>
+     <td>80</td><br>
+   </tr><br>
+ </table><br>
+ In[ ]:<br>
+ import a webpage<br>
+from urllib import request<br>
+with request.urlopen('http://python.org/') as response:<br>
+html = response.read()<br>
+html<br>
+ In[14]:<br>
+ Python google search ---> don't work<br>
+import requests, sys, webbrowser, bs4<br>
+search_str='chamila dharmawardhana'<br>
+res = requests.get('https://google.com/search?q='+''.join(search_str))<br>
+res.raise_for_status()<br>
+soup = bs4.BeautifulSoup(res.text, "html.parser")<br>
+linkElements = soup.select('.r a')<br>
+linkToOpen = min(5, len(linkElements))<br>
+for i in range(linkToOpen):<br>
+webbrowser.open('https://google.com'+linkElements[i].get('href'))<br>
+ In[ ]:<br>
+ # Section 10 - WebScraping lessons and labs<br>
+ [html-css-scraping-intro](./S10_Webscraping/dsc-html-css-scraping-intro-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [html-introduction](./S10_Webscraping/dsc-html-introduction-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [html-introduction-lab](./S10_Webscraping/dsc-html-introduction-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [researching-html-elements](./S10_Webscraping/dsc-researching-html-elements-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [separating-content-and-presentation](./S10_Webscraping/dsc-separating-content-and-presentation-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [intro-to-css](./S10_Webscraping/dsc-intro-to-css-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [css-code-along](./S10_Webscraping/dsc-css-code-along-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [https://github.com/learn-co-curriculum/my-little-rainbow-lab](./S10_Webscraping/https://github.com/learn-co-curriculum/dsc-my-little-rainbow-lab/index.ipynb)<br><br>
+ [https://github.com/learn-co-curriculum/my-little-rainbow-lab](./S10_Webscraping/https://github.com/learn-co-curriculum/dsc-my-little-rainbow-lab/index.ipynb)<br><br>
+ [web-scraping-with-beautiful-soup](./S10_Webscraping/dsc-web-scraping-with-beautiful-soup-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [web-scraping-in-practice](./S10_Webscraping/dsc-web-scraping-in-practice-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [web-scraping-lab](./S10_Webscraping/dsc-web-scraping-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [https://github.com/learn-co-curriculum/web-scraping-lab/tree/solution](./S10_Webscraping/https://github.com/learn-co-curriculum/dsc-web-scraping-lab/tree/solution/index.ipynb)<br><br>
+ [scraping-images](./S10_Webscraping/dsc-scraping-images-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [scraping-concerts-lab](./S10_Webscraping/dsc-scraping-concerts-lab-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ [https://github.com/learn-co-curriculum/scraping-concerts-lab/tree/solution](./S10_Webscraping/https://github.com/learn-co-curriculum/dsc-scraping-concerts-lab/tree/solution/index.ipynb)<br><br>
+ [html-css-scraping-recap](./S10_Webscraping/dsc-html-css-scraping-recap-onl01-dtsc-ft-030220/index.ipynb)<br><br>
+ In[ ]:<br>
+=======
+>>>>>>> ba67a30adb950f7385a6c3f0df0c84e7f610c961
