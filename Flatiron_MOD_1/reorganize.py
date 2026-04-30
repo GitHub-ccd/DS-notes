@@ -24,6 +24,7 @@ import json
 import os
 import re
 import shutil
+import stat
 import sys
 from pathlib import Path
 
@@ -258,23 +259,20 @@ def process_lesson(lesson_dir: Path, section_dir: Path, section_num: int,
     return True
 
 
+def _force_rmtree(path: Path) -> None:
+    """rmtree with read-only override for Windows."""
+    def _on_error(func, p, exc):
+        os.chmod(p, stat.S_IWRITE)
+        func(p)
+    shutil.rmtree(path, onexc=_on_error)
+
+
 def _cleanup_lesson(lesson_dir: Path, section_dir: Path, lesson_short: str,
                     section_num: int, seq: int, nb_src, nb_dst, dry_run: bool):
-    """Delete all remaining files in lesson_dir (boilerplate + original notebook)."""
-    for f in sorted(lesson_dir.rglob("*")):
-        if f.is_file():
-            remove_file(f, dry_run)
-
-    # Remove all sub-directories bottom-up
-    subdirs = sorted(lesson_dir.rglob("*"), key=lambda p: len(p.parts), reverse=True)
-    for d in subdirs:
-        if d.is_dir():
-            if not dry_run:
-                try:
-                    d.rmdir()
-                except OSError:
-                    pass
-    remove_dir(lesson_dir, dry_run)
+    """Delete the entire lesson_dir (all valuable content already moved out)."""
+    print(f"    RMDIR {lesson_dir}")
+    if not dry_run:
+        _force_rmtree(lesson_dir)
 
 
 def process_section(section_dir: Path, dry_run: bool) -> None:
@@ -297,6 +295,10 @@ def process_section(section_dir: Path, dry_run: bool) -> None:
     for lesson_dir in lesson_dirs:
         placed = process_lesson(lesson_dir, section_dir, snum, seq, dry_run)
         seq += 1
+
+    # Delete TOC notebooks at the section root (redundant after reorganization)
+    for toc_nb in section_dir.glob("*TOC*.ipynb"):
+        remove_file(toc_nb, dry_run)
 
     # Clean up any now-empty asset/data subdirs created for zero files
     for parent in [section_dir / "assets", section_dir / "data"]:
