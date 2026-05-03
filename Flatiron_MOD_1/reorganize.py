@@ -347,6 +347,25 @@ def main():
     for section_dir in section_dirs:
         process_section(section_dir, dry_run=args.dry_run)
 
+    # Clean up root-level TOC files and tocs/ folder (obsolete after reorganization)
+    print(f"\n{'='*60}")
+    print("ROOT CLEANUP")
+    print(f"{'='*60}")
+    for toc_file in ["MOD1_TOC.ipynb", "TOC.ipynb"]:
+        p = root / toc_file
+        if p.exists():
+            remove_file(p, dry_run=args.dry_run)
+        else:
+            print(f"  (not found, skipping) {toc_file}")
+
+    tocs_dir = root / "tocs"
+    if tocs_dir.exists():
+        print(f"  RMDIR {tocs_dir}")
+        if not args.dry_run:
+            _force_rmtree(tocs_dir)
+    else:
+        print("  (not found, skipping) tocs/")
+
     print("\n\nDone.")
 
 
