@@ -15,7 +15,13 @@
       "Bash(xargs -I{} sh -c 'echo \"=== {} ===\" && find \"{}\" -type f | head -5')",
       "Bash(xargs -I{} sh -c 'echo \"=== {} ===\" && find \"{}\" -type f | head -3')",
       "Bash(python:*)",
-      "Bash(xargs -I{} ls \"e:/My_GitHub__projects/DS-notes/Flatiron_MOD_2/{}\")"
+      "Bash(xargs -I{} ls \"e:/My_GitHub__projects/DS-notes/Flatiron_MOD_2/{}\")",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" add Flatiron_MOD_3/)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" diff --cached --name-only)",
+      "Bash(git -C e:/My_GitHub__projects/DS-notes commit -m ' *)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" push)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" add Flatiron_MOD_4/)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" status)"
     ]
   }
 }
