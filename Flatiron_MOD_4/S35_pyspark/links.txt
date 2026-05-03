@@ -1,0 +1,11 @@
+https://github.com/learn-co-students/dsc-spark-introduction-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-big-data-introduction-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-parallel-and-distributed-computing-with-mapreduce-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-big-data-analytics-apache-spark-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-spark-docker-installation-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/ds-spark-sparkcontext-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-resilient-distributed-datasets-rdd-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-word-count-with-map-reduce-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-machine-learning-with-spark-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-machine-learning-with-spark-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-spark-section-recap-onl01-dtsc-ft-030220

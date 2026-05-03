@@ -1,0 +1,9 @@
+https://github.com/learn-co-students/dsc-time-series-models-introduction-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-basic-time-series-models-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-basic-time-series-models-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-corr-autocorr-in-time-series-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-corr-autocorr-in-time-series-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-arma-models-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-arma-models-statsmodels-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-arma-models-statsmodels-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-time-series-models-section-recap-onl01-dtsc-ft-030220

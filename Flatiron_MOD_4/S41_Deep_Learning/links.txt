@@ -1,0 +1,6 @@
+https://github.com/learn-co-students/dsc-deep-learning-section-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-deeper-neural-networks-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-deeper-neural-networks-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-image-classification-with-mlps-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-image-classification-with-mlps-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-deep-learning-section-recap-onl01-dtsc-ft-030220

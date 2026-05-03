@@ -1,0 +1,7 @@
+https://github.com/learn-co-students/dsc-tuning-neural-networks-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-tuning-neural-networks-with-regularization-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-tuning-neural-networks-with-regularization-lab-v2-1-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-tuning-neural-networks-with-normalization-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-tuning-neural-networks-with-normalization-lab-v2-1-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-tuning-neural-networks-from-start-to-finish-lab-v2-1-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-tuning-neural-networks-recap-onl01-dtsc-ft-030220

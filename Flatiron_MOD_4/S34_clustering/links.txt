@@ -1,0 +1,10 @@
+https://github.com/learn-co-students/dsc-clustering-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-k-means-clustering-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-k-means-clustering-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-hierarchical-agglomerative-clustering-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-common-problems-with-clustering-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-hierarchical-agglomerative-clustering-codealong-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-market-segmentation-clustering-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-market-segmentation-clustering-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-semi-supervised-learning-and-look-alike-models-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-clustering-recap-onl01-dtsc-ft-030220

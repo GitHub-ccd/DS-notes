@@ -1,0 +1,6 @@
+https://github.com/learn-co-students/dsc-neural-networks-section-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-introduction-to-neural-networks-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-introduction-to-neural-networks-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-introduction-to-keras-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-introduction-to-keras-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-neural-networks-section-recap-onl01-dtsc-ft-030220

@@ -1,0 +1,7 @@
+https://github.com/learn-co-students/dsc-cnn-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-convolutional-neural-networks-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-convolutional-neural-networks-codealong-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-building-a-cnn-from-scratch-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-visualizing-intermediate-activations-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-visualizing-activation-functions-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-cnn-recap-onl01-dtsc-ft-030220

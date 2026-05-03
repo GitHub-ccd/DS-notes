@@ -1,0 +1,13 @@
+https://github.com/learn-co-students/dsc-nlp-section-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-nlp-and-word-vectorization-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-word-vectorization-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-introduction-to-nltk-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-introduction-to-regular-expressions-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-regular-expressions-codealong-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-feature-engineering-for-text-data-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-corpus-statistics-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-context-free-grammars-and-POS-tagging-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-context-free-grammars-codealong-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-text-classification-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-text-classification-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-nlp-section-recap-onl01-dtsc-ft-030220

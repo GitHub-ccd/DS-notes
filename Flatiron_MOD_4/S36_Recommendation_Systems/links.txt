@@ -1,0 +1,8 @@
+https://github.com/learn-co-students/dsc-recommender-section-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-recommendation-system-introduction-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-collaborative-filtering-singular-value-decomposition-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-implementing-recommender-systems-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-implementing-recommender-systems-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-matrix-factorization-als-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/als-recommender-system-pyspark-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-recommendation-section-recap-onl01-dtsc-ft-030220

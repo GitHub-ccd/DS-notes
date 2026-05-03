@@ -1,0 +1,10 @@
+https://github.com/learn-co-students/dsc-time-series-section-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-introduction-to-time-series-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-managing-time-series-data-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-visualizing-time-series-data-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-types-of-trends-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-testing-for-trends-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-removing-trends-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-removing-trends-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-time-series-decomposition-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-time-series-section-recap-onl01-dtsc-ft-030220

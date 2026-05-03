@@ -1,0 +1,5 @@
+https://github.com/learn-co-students/dsc-transfer-learning-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-using-pretrained-networks-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-using-pretrained-networks-codealong-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-image-classification-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-transfer-learning-recap-onl01-dtsc-ft-030220

@@ -1,0 +1,13 @@
+https://github.com/learn-co-students/dsc-pca-introduction-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-unsupervised-learning-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-curse-of-dimensionality-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-curse-of-dimensionality-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-pca-in-scikitlearn-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-pca-in-scikitlearn-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-pca-and-pipelines-v2-1-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-pca-covariance-matrix-eigendecomp-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-performing-principal-component-analysis-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-pca-numpy-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-pca-and-digital-image-processing-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-pca-and-digital-image-processing-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-pca-summary-onl01-dtsc-ft-030220

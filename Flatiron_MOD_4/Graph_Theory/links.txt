@@ -1,0 +1,14 @@
+https://github.com/learn-co-students/dsc-network-introduction-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-intro-graph-theory-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-networkX-intro-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-networkX-intro-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-graph-theory-shortest-path-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-graph-theory-shortest-path-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-node-centrality-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-node-centrality-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-network-clustering-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-network-clustering-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-network-community-detection-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-network-recommendation-systems-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-network-recomendation-systems-lab-onl01-dtsc-ft-030220
+https://github.com/learn-co-students/dsc-networks-recap-onl01-dtsc-ft-030220
