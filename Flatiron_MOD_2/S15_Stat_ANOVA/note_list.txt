@@ -1,0 +1,9 @@
+dsc-statistical-power-anova-introduction-onl01-dtsc-ft-030220
+dsc-statistical-power-onl01-dtsc-ft-030220
+dsc-welchs-ttest-onl01-dtsc-ft-030220
+dsc-effect-sizes-pvalues-and-power-lab-onl01-dtsc-ft-030220
+dsc-multiple-comparisons-problem-onl01-dtsc-ft-030220
+dsc-goodharts-law-and-metric-tracking-onl01-dtsc-ft-030220
+dsc-kolmogorov-smirnov-test-onl01-dtsc-ft-030220
+dsc-anova-onl01-dtsc-ft-030220
+dsc-statistical-power-anova-recap-onl01-dtsc-ft-030220

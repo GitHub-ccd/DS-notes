@@ -14,7 +14,8 @@
       "Bash(xargs rm:*)",
       "Bash(xargs -I{} sh -c 'echo \"=== {} ===\" && find \"{}\" -type f | head -5')",
       "Bash(xargs -I{} sh -c 'echo \"=== {} ===\" && find \"{}\" -type f | head -3')",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(xargs -I{} ls \"e:/My_GitHub__projects/DS-notes/Flatiron_MOD_2/{}\")"
     ]
   }
 }

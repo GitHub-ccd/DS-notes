@@ -1,0 +1,9 @@
+dsc-linear-regression-section-intro-v2-1-onl01-dtsc-ft-030220
+dsc-stat-learning-theory-onl01-dtsc-ft-030220
+dsc-simple-linear-regression-onl01-dtsc-ft-030220
+dsc-coefficient-of-determination-onl01-dtsc-ft-030220
+dsc-regression-assumptions-onl01-dtsc-ft-030220
+dsc-ols-statsmodels-onl01-dtsc-ft-030220
+dsc-ols-regression-diagnostics-onl01-dtsc-ft-030220
+dsc-significance-p-value-onl01-dtsc-ft-030220
+dsc-linear-regression-section-recap-v2-1-onl01-dtsc-ft-030220

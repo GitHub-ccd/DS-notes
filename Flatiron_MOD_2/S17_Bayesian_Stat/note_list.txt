@@ -1,0 +1,6 @@
+dsc-bayesian-stats-introduction-onl01-dtsc-ft-030220
+dsc-bayesians-vs-frequentists-onl01-dtsc-ft-030220
+dsc-bayes-theorem-onl01-dtsc-ft-030220
+dsc-mle-onl01-dtsc-ft-030220
+dsc-map-multinomial-bayes-onl01-dtsc-ft-030220
+dsc-bayesian-stats-recap-onl01-dtsc-ft-030220

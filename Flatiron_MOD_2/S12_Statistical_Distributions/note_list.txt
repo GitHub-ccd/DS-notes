@@ -1,0 +1,12 @@
+dsc-distributions-section-intro-v2-1-onl01-dtsc-ft-030220
+dsc-stat-distributions-use-cases-onl01-dtsc-ft-030220
+dsc-probability-mass-function-onl01-dtsc-ft-030220
+dsc-probability-density-function-onl01-dtsc-ft-030220
+dsc-cumulative-distribution-function-onl01-dtsc-ft-030220
+dsc-bernoulli-and-binomial-distribution-onl01-dtsc-ft-030220
+dsc-normal-distribution-onl01-dtsc-ft-030220
+dsc-standard-normal-distribution-onl01-dtsc-ft-030220
+dsc-z-score-p-value-onl01-dtsc-ft-030220
+dsc-one-sample-z-test-onl01-dtsc-ft-030220
+dsc-skewness-and-kurtosis-onl01-dtsc-ft-030220
+dsc-distributions-section-recap-v2-1-onl01-dtsc-ft-030220

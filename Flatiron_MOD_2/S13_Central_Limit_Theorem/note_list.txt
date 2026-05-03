@@ -1,0 +1,6 @@
+dsc-inferential-statistics-section-intro-onl01-dtsc-ft-030220
+dsc-introduction-to-sampling-onl01-dtsc-ft-030220
+dsc-central-limit-theorem-onl01-dtsc-ft-030220
+dsc-central-limit-theorem-lab-onl01-dtsc-ft-030220
+dsc-intervals-with-t-distribution-onl01-dtsc-ft-030220
+dsc-inferential-statistics-section-recap-onl01-dtsc-ft-030220

@@ -1,0 +1,8 @@
+dsc-hypothesis-testing-intro-v2-1-onl01-dtsc-ft-030220
+dsc-experimental-design-onl01-dtsc-ft-030220
+dsc-p-values-and-null-hypothesis-onl01-dtsc-ft-030220
+dsc-effect-sizes-onl01-dtsc-ft-030220
+dsc-t-tests-onl01-dtsc-ft-030220
+dsc-type-1-and-2-error-onl01-dtsc-ft-030220
+dsc-resampling-methods-onl01-dtsc-ft-030220
+dsc-hypothesis-testing-section-recap-v2-1-onl01-dtsc-ft-030220
