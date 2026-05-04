@@ -36,7 +36,10 @@
       "Bash(sed -i 's/# Flatiron_MOD_3 —/# MOD_3 —/g; s/Flatiron Data Science curriculum/Data Science curriculum/g' \"e:/My_GitHub__projects/DS-notes/MOD_3/README.md\")",
       "Bash(sed -i 's/# Flatiron_MOD_4 —/# MOD_4 —/g; s/Flatiron Data Science curriculum/Data Science curriculum/g' \"e:/My_GitHub__projects/DS-notes/MOD_4/README.md\")",
       "Bash(xargs grep *)",
-      "Bash(python3 -)"
+      "Bash(python3 -)",
+      "PowerShell(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\" -Directory | ForEach-Object { $mod = $_.Name; Get-ChildItem -Path $_.FullName -Directory | ForEach-Object { \"$mod / $\\($_.Name\\)\" } })",
+      "Bash(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\MOD_1\" -Directory)",
+      "Bash(Select-Object Name)"
     ]
   }
 }
