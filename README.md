@@ -1,6 +1,6 @@
 # DS Notes — Flatiron Data Science Curriculum
 
-Personal notes, labs, and projects from the Flatiron Data Science program, organized across four modules covering the full ML pipeline from Python fundamentals to deep learning and cloud deployment.
+Personal notes, labs, and projects from the Data Science program, organized across four modules covering the full ML pipeline from Python fundamentals to deep learning and cloud deployment.
 
 ---
 
@@ -10,10 +10,10 @@ Each module is a self-contained folder with sections numbered S1–S43 across th
 
 ```
 DS-notes/
-├── Flatiron_MOD_1/   # S1–S10   Python, Pandas, EDA, SQL, APIs, Webscraping
-├── Flatiron_MOD_2/   # S11–S21  Probability, Statistics, Linear Regression
-├── Flatiron_MOD_3/   # S21–S32  ML Algorithms (Logistic Reg, Trees, SVM, etc.)
-└── Flatiron_MOD_4/   # S33–S43  Advanced ML, Deep Learning, NLP, AWS
+├── MOD_1/   # S1–S10   Python, Pandas, EDA, SQL, APIs, Webscraping
+├── MOD_2/   # S11–S21  Probability, Statistics, Linear Regression
+├── MOD_3/   # S21–S32  ML Algorithms (Logistic Reg, Trees, SVM, etc.)
+└── MOD_4/   # S33–S43  Advanced ML, Deep Learning, NLP, AWS
 ```
 
 ---

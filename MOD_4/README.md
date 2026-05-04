@@ -1,6 +1,6 @@
-# Flatiron_MOD_4 — Advanced Machine Learning & Deep Learning
+# MOD_4 — Advanced Machine Learning & Deep Learning
 
-Sections S33–S43 of the Flatiron Data Science curriculum, reorganized into flat per-section notebooks.
+Sections S33–S43 of the Data Science curriculum, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`

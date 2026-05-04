@@ -21,7 +21,20 @@
       "Bash(git -C e:/My_GitHub__projects/DS-notes commit -m ' *)",
       "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" push)",
       "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" add Flatiron_MOD_4/)",
-      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" status)"
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" status)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" add Flatiron_MOD_1/README.md)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" add Flatiron_MOD_2/README.md)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" add Flatiron_MOD_3/README.md)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" add Flatiron_MOD_4/README.md)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" add README.md)",
+      "Bash(git mv *)",
+      "Bash(cmd //c \"rmdir /s /q \\\\\"e:\\\\\\\\My_GitHub__projects\\\\\\\\DS-notes\\\\\\\\Flatiron_MOD_1\\\\\"\")",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" status --short)",
+      "Bash(git -C \"e:/My_GitHub__projects/DS-notes\" add -A)",
+      "Bash(sed -i 's/# Flatiron_MOD_1 —/# MOD_1 —/g; s/Flatiron Data Science curriculum/Data Science curriculum/g' \"e:/My_GitHub__projects/DS-notes/MOD_1/README.md\")",
+      "Bash(sed -i 's/# Flatiron_MOD_2 —/# MOD_2 —/g; s/Flatiron Data Science curriculum/Data Science curriculum/g' \"e:/My_GitHub__projects/DS-notes/MOD_2/README.md\")",
+      "Bash(sed -i 's/# Flatiron_MOD_3 —/# MOD_3 —/g; s/Flatiron Data Science curriculum/Data Science curriculum/g' \"e:/My_GitHub__projects/DS-notes/MOD_3/README.md\")",
+      "Bash(sed -i 's/# Flatiron_MOD_4 —/# MOD_4 —/g; s/Flatiron Data Science curriculum/Data Science curriculum/g' \"e:/My_GitHub__projects/DS-notes/MOD_4/README.md\")"
     ]
   }
 }

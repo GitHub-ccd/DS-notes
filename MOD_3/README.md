@@ -1,6 +1,6 @@
-# Flatiron_MOD_3 — Machine Learning Fundamentals
+# MOD_3 — Machine Learning Fundamentals
 
-Sections S21–S32 of the Flatiron Data Science curriculum, reorganized into flat per-section notebooks.
+Sections S21–S32 of the Data Science curriculum, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`

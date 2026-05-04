@@ -1,6 +1,6 @@
-# Flatiron_MOD_1 — Python, Pandas, EDA & Webscraping
+# MOD_1 — Python, Pandas, EDA & Webscraping
 
-Sections S1–S10 of the Flatiron Data Science curriculum, reorganized into flat per-section notebooks.
+Sections S1–S10 of the Data Science curriculum, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`

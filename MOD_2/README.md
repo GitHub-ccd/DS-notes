@@ -1,6 +1,6 @@
-# Flatiron_MOD_2 — Probability & Statistics for Machine Learning
+# MOD_2 — Probability & Statistics for Machine Learning
 
-Sections S11–S21 of the Flatiron Data Science curriculum, reorganized into flat per-section notebooks.
+Sections S11–S21 of the Data Science curriculum, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
