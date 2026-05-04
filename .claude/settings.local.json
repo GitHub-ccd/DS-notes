@@ -42,7 +42,9 @@
       "Bash(Select-Object Name)",
       "Bash(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\MOD_2\" -Directory)",
       "Bash(Sort-Object Name)",
-      "PowerShell(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\MOD_2\" | Where-Object { $_.PSIsContainer } | Sort-Object Name)"
+      "PowerShell(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\MOD_2\" | Where-Object { $_.PSIsContainer } | Sort-Object Name)",
+      "Bash(grep -E \"S[0-9]{2}_[a-z_]+\\\\.ipynb$\")",
+      "Bash(grep -v \"^$\")"
     ]
   }
 }

@@ -26,7 +26,7 @@ Before adding new content, identify and update stale/legacy material module by m
 | **MOD_1** — Python, Pandas, SQL, APIs, Scraping | Mostly solid, 2 sections needed work | ✅ Done |
 | **MOD_2** — Probability, Stats, Regression | Evergreen math, housekeeping only | ✅ Done |
 | **MOD_3** — Classical ML (Logistic Reg, Trees, SVM, etc.) | Solid, sklearn still dominant | ✅ Done |
-| **MOD_4** — Deep Learning, NLP, AWS | Needs significant work — field moved fastest here | 🔲 Pending |
+| **MOD_4** — Deep Learning, NLP, Cloud ML | Needs significant work — field moved fastest here | ✅ Done |
 
 **MOD_5 (proposed):** LLMs, GenAI & Agents — substantial enough for its own module. Scope TBD.
 
@@ -68,18 +68,23 @@ Key actions taken:
 - Added SHAP cross-reference notes to S29, S30, and S31 summaries
 - Added `S32_05_shap_explainability.ipynb` — SHAP values for tree models and sklearn pipelines
 
-### 🔲 MOD_4 — Pending (most work required)
+### ✅ MOD_4 — Complete
 
-**Sections:** S33 (PCA), S34 (Clustering), S35 (PySpark), S36 (Recommendation Systems), S37–S38 (Time Series), S39 (NLP), S40–S42 (Neural Networks/Deep Learning), S43 (AWS)
-Plus existing extras: CNN, Transfer Learning, Graph Theory
+See [MOD_4/CHANGES.md](./MOD_4/CHANGES.md)
 
-**Expected work:**
-- S35 PySpark: still relevant but add Databricks context note
-- S36 Recommendations: add LLM-based recommendation note
-- S39 NLP: **major rewrite** — NLTK-based NLP is legacy; needs Transformers/HuggingFace section
-- S40–S42 Neural Networks: add PyTorch as modern alternative to Keras/TensorFlow
-- S43 AWS: update for current SageMaker and add MLOps context
-- Missing entirely: LLMs, RAG, Transformers, HuggingFace, Agents → likely MOD_5
+Key actions taken:
+- Rewrote all 14 summary notebooks (S33–S43 + CNN, Transfer Learning, Graph Theory)
+- Fixed naming anomaly: S34 summary was `Section_33_clustering.ipynb` → `Section_34_clustering.ipynb`
+- Removed 4 clutter items: `reorganize.py`, wrong-named S34 summary, and 2 nested legacy repos (S35/S36)
+- Note: CNN, Graph Theory, Transfer Learning nested repos kept — they are the sole lesson content for those sections
+- Added Databricks context note to S35; embedding-based recommendation note to S36
+- Added Prophet/NeuralProphet/TimeGPT note to S38
+- Added NLTK legacy warning + `S39_14_transformers_huggingface.ipynb` (HuggingFace `transformers`, `sentence-transformers`, spaCy)
+- Added PyTorch vs Keras comparison to S40; Optuna/LayerNorm notes to S42
+- Added ViT/CLIP note to CNN; LoRA/foundation model note to Transfer Learning; GNN/PyTorch Geometric note to Graph Theory
+- Expanded S43 to cover all three major cloud ML platforms:
+  - `S43_07_azure_ml.ipynb` — Azure ML SDK v2, MLflow tracking, managed endpoints
+  - `S43_08_gcp_vertex_ai.ipynb` — Vertex AI, Kubeflow Pipelines, Gemini API
 
 ### 🔲 MOD_5 — Proposed
 
