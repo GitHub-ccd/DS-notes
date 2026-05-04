@@ -4,7 +4,7 @@ import pytests
 import importlib
 
 # importing objects from the jupyter notebook here
-from ipynb.fs.full.index import sentence, flatiron_mantra, num_to_string, full_address
+from ipynb.fs.full.index import sentence, bootcamp_mantra, num_to_string, full_address
 
 # format for writing tests
 # all functions that are to be run by test suite *must* be prepended with test_
@@ -13,10 +13,10 @@ def test_sentence():
     assert type(sentence) == type(""), "The sentence must be a string!"
     assert sentence == 'Wow we love coding and strings!', "Remember we want to *captilize* this string in order to lower case all but the first character in this string"
 
-def test_flatiron_mantra():
-    assert flatiron_mantra is not None, "The flatiron_mantra variable must be assigned to a value!"
-    assert type(flatiron_mantra) == type(""), "The flatiron_mantra must be a string!"
-    assert flatiron_mantra == "Learn. Love. Code.", ""
+def test_bootcamp_mantra():
+    assert bootcamp_mantra is not None, "The bootcamp_mantra variable must be assigned to a value!"
+    assert type(bootcamp_mantra) == type(""), "The bootcamp_mantra must be a string!"
+    assert bootcamp_mantra == "Learn. Love. Code.", ""
 
 def test_num_to_string():
     assert num_to_string is not None, "The num_to_string variable must be assigned to a value!"

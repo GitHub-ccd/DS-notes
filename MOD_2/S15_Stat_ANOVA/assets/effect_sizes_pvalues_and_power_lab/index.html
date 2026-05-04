@@ -13100,7 +13100,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Import-starter-functions">Import starter functions<a class="anchor-link" href="#Import-starter-functions">&#182;</a></h2><p>To start, import the functions stored in the <code>flatiron_stats.py</code> file. It contains the stats functions that you previously coded in the last lab: <code>welch_t(a,b)</code>, <code>welch_df(a, b)</code>, and <code>p_value(a, b, two_sided=False)</code>. You'll then use these functions below to further investigate the relationship between p-values and sample size.</p>
+<h2 id="Import-starter-functions">Import starter functions<a class="anchor-link" href="#Import-starter-functions">&#182;</a></h2><p>To start, import the functions stored in the <code>the bootcamp_stats.py</code> file. It contains the stats functions that you previously coded in the last lab: <code>welch_t(a,b)</code>, <code>welch_df(a, b)</code>, and <code>p_value(a, b, two_sided=False)</code>. You'll then use these functions below to further investigate the relationship between p-values and sample size.</p>
 
 </div>
 </div>
@@ -13110,8 +13110,8 @@ div#notebook {
 <div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Your code here; import the contents from flatiron_stats.py</span>
-<span class="c1"># You may also wish to open up flatiron_stats.py in a text editor to preview its contents </span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Your code here; import the contents from the bootcamp_stats.py</span>
+<span class="c1"># You may also wish to open up the bootcamp_stats.py in a text editor to preview its contents </span>
 </pre></div>
 
     </div>
@@ -13156,7 +13156,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Run-a-simulation">Run a simulation<a class="anchor-link" href="#Run-a-simulation">&#182;</a></h2><p>For your first simulation, you're going to investigate how the p-value of an experiment relates to sample size when both samples are from identical underlying distributions. To do this, use your <code>generate_samples()</code> function along with the <code>p_value_welch_ttest()</code> function defined in the <code>flatiron_stats</code> file. Use sample sizes from 5 to 750. For each sample size, simulate 100 experiments. For each of these experiments, generate 2 samples of the given sample size. Each sample should have a standard deviation of 1. The first sample should have a mean of 5 and the second should have a mean of 5 plus the effect size, you hope to detect. Calculate the corresponding p-values for a Welch's t-test for each of these sample pairs. Finally, use the p-values to calculate the power of the test. Remember that for all of the simulations where the effect size does not equal zero, the null hypothesis is not true. Store the overall power from the 100 simulations along with the corresponding sample size and effect size. Use varying effect sizes such as [0, 0.01, 0.1, 0.2, 0.5, 1, 2]. You'll then plot power vs sample size for various effect sizes.</p>
+<h2 id="Run-a-simulation">Run a simulation<a class="anchor-link" href="#Run-a-simulation">&#182;</a></h2><p>For your first simulation, you're going to investigate how the p-value of an experiment relates to sample size when both samples are from identical underlying distributions. To do this, use your <code>generate_samples()</code> function along with the <code>p_value_welch_ttest()</code> function defined in the <code>the bootcamp_stats</code> file. Use sample sizes from 5 to 750. For each sample size, simulate 100 experiments. For each of these experiments, generate 2 samples of the given sample size. Each sample should have a standard deviation of 1. The first sample should have a mean of 5 and the second should have a mean of 5 plus the effect size, you hope to detect. Calculate the corresponding p-values for a Welch's t-test for each of these sample pairs. Finally, use the p-values to calculate the power of the test. Remember that for all of the simulations where the effect size does not equal zero, the null hypothesis is not true. Store the overall power from the 100 simulations along with the corresponding sample size and effect size. Use varying effect sizes such as [0, 0.01, 0.1, 0.2, 0.5, 1, 2]. You'll then plot power vs sample size for various effect sizes.</p>
 
 </div>
 </div>

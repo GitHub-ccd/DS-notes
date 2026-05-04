@@ -1,4 +1,4 @@
-# DS Notes — Flatiron Data Science Curriculum
+# DS Notes — Data Science Curriculum
 
 Personal notes, labs, and projects from the Data Science program, organized across four modules covering the full ML pipeline from Python fundamentals to deep learning and cloud deployment.
 

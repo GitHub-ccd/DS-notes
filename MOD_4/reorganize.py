@@ -1,5 +1,5 @@
 """
-reorganize.py — Flatten Flatiron_MOD_1 lesson sub-folders into clean per-section notebooks.
+reorganize.py — Flatten MOD_1 lesson sub-folders into clean per-section notebooks.
 
 What it does
 ------------
@@ -345,7 +345,7 @@ def main():
     parser.add_argument("--dry-run", action="store_true",
                         help="Print what would happen without making changes")
     parser.add_argument("--root", default=None,
-                        help="Path to Flatiron_MOD_1 directory (default: script's directory)")
+                        help="Path to MOD_1 directory (default: script's directory)")
     parser.add_argument("--section", default=None,
                         help="Process only this section, e.g. S4_pandas_visualization")
     args = parser.parse_args()
