@@ -39,7 +39,10 @@
       "Bash(python3 -)",
       "PowerShell(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\" -Directory | ForEach-Object { $mod = $_.Name; Get-ChildItem -Path $_.FullName -Directory | ForEach-Object { \"$mod / $\\($_.Name\\)\" } })",
       "Bash(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\MOD_1\" -Directory)",
-      "Bash(Select-Object Name)"
+      "Bash(Select-Object Name)",
+      "Bash(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\MOD_2\" -Directory)",
+      "Bash(Sort-Object Name)",
+      "PowerShell(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\MOD_2\" | Where-Object { $_.PSIsContainer } | Sort-Object Name)"
     ]
   }
 }
