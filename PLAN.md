@@ -27,8 +27,7 @@ Before adding new content, identify and update stale/legacy material module by m
 | **MOD_2** — Probability, Stats, Regression | Evergreen math, housekeeping only | ✅ Done |
 | **MOD_3** — Classical ML (Logistic Reg, Trees, SVM, etc.) | Solid, sklearn still dominant | ✅ Done |
 | **MOD_4** — Deep Learning, NLP, Cloud ML | Needs significant work — field moved fastest here | ✅ Done |
-
-**MOD_5 (proposed):** LLMs, GenAI & Agents — substantial enough for its own module. Scope TBD.
+| **MOD_5** — LLMs, GenAI & Agents | New module — no legacy content, built from scratch | ✅ Done |
 
 ---
 
@@ -86,18 +85,21 @@ Key actions taken:
   - `S43_07_azure_ml.ipynb` — Azure ML SDK v2, MLflow tracking, managed endpoints
   - `S43_08_gcp_vertex_ai.ipynb` — Vertex AI, Kubeflow Pipelines, Gemini API
 
-### 🔲 MOD_5 — Proposed
+### ✅ MOD_5 — Complete
 
-**Proposed sections:**
-| Section | Topic |
-|---------|-------|
-| S44 | Transformers & Attention Mechanism |
-| S45 | HuggingFace Ecosystem |
-| S46 | LLMs — Concepts, Prompting, Evaluation |
-| S47 | RAG (Retrieval-Augmented Generation) |
-| S48 | AI Agents & Tool Use |
-| S49 | LLM Fine-tuning |
-| S50 | LLMOps & Deployment |
+**Sections:**
+
+| Section | Topic | Notebooks |
+|---------|-------|-----------|
+| S44 | Transformers & Attention Mechanism | 5 lessons: self-attention, multi-head attention, transformer arch, positional encoding, BERT/GPT/T5 families |
+| S45 | HuggingFace Ecosystem | 5 lessons: Hub, tokenizers, datasets library, PEFT/LoRA, Accelerate |
+| S46 | LLMs — Concepts, Prompting & Evaluation | 5 lessons: what are LLMs, prompt engineering, chain-of-thought, LLM APIs, evaluation |
+| S47 | RAG (Retrieval-Augmented Generation) | 5 lessons: why RAG, document loading/chunking, embeddings/vector DBs, retrieval strategies, end-to-end pipeline |
+| S48 | AI Agents & Tool Use | 5 lessons: agent architecture, function calling, ReAct/LangChain, LangGraph, multi-agent frameworks |
+| S49 | LLM Fine-tuning | 5 lessons: when to fine-tune, LoRA/QLoRA, instruction tuning, RLHF/DPO, end-to-end with Unsloth/TRL |
+| S50 | LLMOps & Deployment | 5 lessons: quantization, inference servers, LLM monitoring, cost optimization, LLMOps overview |
+
+**Note:** S39_14 (MOD_4) is the entry point to HuggingFace `transformers` — S44/S45 go deeper into theory and advanced tooling.
 
 ---
 
