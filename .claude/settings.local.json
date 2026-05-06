@@ -51,7 +51,8 @@
       "Bash(sed -i 's|\\\\.\\\\./S32_Pipelines/|../12_Pipelines/|g' 03_Classical_ML/10_Ensemble_Methods/S30_Ensemble_Methods.ipynb)",
       "Bash(sed -i 's|\\\\.\\\\./S32_Pipelines/|../12_Pipelines/|g' 03_Classical_ML/11_SVM/S31_SVM.ipynb)",
       "Bash(grep -rEn \" S[0-9]{1,2}[^_0-9]\" --include=\"*.md\")",
-      "Bash(git rm *)"
+      "Bash(git rm *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
