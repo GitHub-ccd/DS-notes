@@ -1,6 +1,6 @@
-# 01 — Python & Data Tools
+﻿# 01 — Python & Data Tools
 
-Sections S1–S10 of the Data Science curriculum, reorganized into flat per-section notebooks.
+Sections 01–10, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
@@ -10,7 +10,7 @@ Each section folder contains:
 
 ---
 
-## S1 — Data Science Introduction
+## 01 — Data Science Introduction
 Python fundamentals: variables, strings, numbers, booleans, lists, dictionaries, loops, conditionals, and data visualization. Includes the Analyzing Macbeth project.
 
 | # | Notebook |
@@ -33,7 +33,7 @@ Python fundamentals: variables, strings, numbers, booleans, lists, dictionaries,
 
 ---
 
-## S2 — Git & Environment Setup
+## 02 — Git & Environment Setup
 Bash shell, Git version control, branching, merging, stashing, collaboration workflows, and PEP8 code style.
 
 | # | Notebook |
@@ -52,7 +52,7 @@ Bash shell, Git version control, branching, merging, stashing, collaboration wor
 
 ---
 
-## S3 — Control Flow, Functions & Statistics
+## 03 — Control Flow, Functions & Statistics
 While loops, nested loops, functions, arguments, Python I/O, mathematical notation, measures of central tendency and dispersion, covariance and correlation.
 
 | # | Notebook |
@@ -73,7 +73,7 @@ While loops, nested loops, functions, arguments, Python I/O, mathematical notati
 
 ---
 
-## S4 — NumPy, Pandas & Visualization
+## 04 — NumPy, Pandas & Visualization
 NumPy arrays, Pandas Series and DataFrames, importing/accessing data, statistical methods, data visualization with Pandas, data ethics, and the Boston Housing EDA project.
 
 | # | Notebook |
@@ -94,7 +94,7 @@ NumPy arrays, Pandas Series and DataFrames, importing/accessing data, statistica
 
 ---
 
-## S5 — Data Cleaning
+## 05 — Data Cleaning
 Lambda functions, groupby, combining DataFrames, pivot tables, handling missing data, and a data cleaning project. Includes a study group codealong on groupby.
 
 | # | Notebook |
@@ -111,7 +111,7 @@ Lambda functions, groupby, combining DataFrames, pivot tables, handling missing 
 
 ---
 
-## S6 — Seaborn & Visualization
+## 06 — Seaborn & Visualization
 Matplotlib customization, subplots, data viz best practices, and Seaborn. Includes a Plotly special lecture notebook.
 
 | # | Notebook |
@@ -125,7 +125,7 @@ Matplotlib customization, subplots, data viz best practices, and Seaborn. Includ
 
 ---
 
-## S7 — SQL
+## 07 — SQL
 SQL fundamentals: selecting, filtering, ordering, grouping, joins (one-to-many, many-to-many), subqueries, database administration, data types, and using SQL with Pandas.
 
 | # | Notebook |
@@ -146,7 +146,7 @@ SQL fundamentals: selecting, filtering, ordering, grouping, joins (one-to-many, 
 
 ---
 
-## S8 — NoSQL
+## 08 — NoSQL
 NoSQL database concepts, document stores, and MongoDB (CRUD operations).
 
 | # | Notebook |
@@ -159,7 +159,7 @@ NoSQL database concepts, document stores, and MongoDB (CRUD operations).
 
 ---
 
-## S9 — JSON & APIs
+## 09 — JSON & APIs
 JSON format, known and unknown JSON schemas, transforming JSON data, and working with web APIs.
 
 | # | Notebook |

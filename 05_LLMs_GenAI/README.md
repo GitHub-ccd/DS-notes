@@ -1,16 +1,16 @@
-# 05 — LLMs & GenAI
+﻿# 05 — LLMs & GenAI
 
-Sections S44–S50. A new module built from scratch in 2026 covering the transformer era of ML — everything from the attention mechanism through to productionising LLM-powered systems.
+Sections 01–07. A new module built from scratch in 2026 covering the transformer era of ML — everything from the attention mechanism through to productionising LLM-powered systems.
 
 Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
 - A section summary notebook: `S{N}_{SectionName}.ipynb`
 
-**Prerequisite:** 04_Deep_Learning S39–S42 (NLP, Neural Networks) and S39_14 (HuggingFace `transformers` intro).
+**Prerequisite:** 04_Deep_Learning sections 07–10 (NLP, Neural Networks) and S39_14 (HuggingFace `transformers` intro).
 
 ---
 
-## S44 — Transformers & Attention Mechanism
+## 01 — Transformers & Attention Mechanism
 The mathematical and architectural foundations of transformer models.
 
 | # | Notebook |
@@ -23,7 +23,7 @@ The mathematical and architectural foundations of transformer models.
 
 ---
 
-## S45 — HuggingFace Ecosystem
+## 02 — HuggingFace Ecosystem
 The complete HuggingFace toolchain for working with transformer models.
 
 | # | Notebook |
@@ -36,7 +36,7 @@ The complete HuggingFace toolchain for working with transformer models.
 
 ---
 
-## S46 — LLMs: Concepts, Prompting & Evaluation
+## 03 — LLMs: Concepts, Prompting & Evaluation
 Understanding, using, and evaluating large language models.
 
 | # | Notebook |
@@ -49,7 +49,7 @@ Understanding, using, and evaluating large language models.
 
 ---
 
-## S47 — RAG (Retrieval-Augmented Generation)
+## 04 — RAG (Retrieval-Augmented Generation)
 Building knowledge-grounded LLM systems.
 
 | # | Notebook |
@@ -62,7 +62,7 @@ Building knowledge-grounded LLM systems.
 
 ---
 
-## S48 — AI Agents & Tool Use
+## 05 — AI Agents & Tool Use
 Building autonomous agents that reason and act.
 
 | # | Notebook |
@@ -75,7 +75,7 @@ Building autonomous agents that reason and act.
 
 ---
 
-## S49 — LLM Fine-tuning
+## 06 — LLM Fine-tuning
 Adapting pre-trained models to domain-specific tasks.
 
 | # | Notebook |
@@ -88,7 +88,7 @@ Adapting pre-trained models to domain-specific tasks.
 
 ---
 
-## S50 — LLMOps & Deployment
+## 07 — LLMOps & Deployment
 Serving, monitoring, and operating LLMs in production.
 
 | # | Notebook |

@@ -1,6 +1,6 @@
-# 03 — Classical ML
+﻿# 03 — Classical ML
 
-Sections S21–S32 of the Data Science curriculum, reorganized into flat per-section notebooks.
+Sections 01–12, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
@@ -10,7 +10,7 @@ Each section folder contains:
 
 ---
 
-## S21 — Object-Oriented Programming
+## 01 — Object-Oriented Programming
 Classes, instances, instance methods, and instance variables in Python.
 
 | # | Notebook |
@@ -22,7 +22,7 @@ Classes, instances, instance methods, and instance variables in Python.
 
 ---
 
-## S22 — Linear Algebra
+## 02 — Linear Algebra
 Scalars, vectors, matrices, tensors, linear equations, matrix multiplication, computational complexity, and regression with NumPy.
 
 | # | Notebook |
@@ -40,7 +40,7 @@ Scalars, vectors, matrices, tensors, linear equations, matrix multiplication, co
 
 ---
 
-## S23 — Calculus & Gradient Descent
+## 03 — Calculus & Gradient Descent
 Derivatives, rules for differentiation, non-linear functions, gradient descent (intro, step sizes, 3D, cost function), and applying gradient descent.
 
 | # | Notebook |
@@ -60,7 +60,7 @@ Derivatives, rules for differentiation, non-linear functions, gradient descent (
 
 ---
 
-## S24 — Regularization
+## 04 — Regularization
 Feature selection (AIC, BIC, methods), generating data, Ridge and Lasso regression, and extensions to linear models.
 
 | # | Notebook |
@@ -75,7 +75,7 @@ Feature selection (AIC, BIC, methods), generating data, Ridge and Lasso regressi
 
 ---
 
-## S25 — Logistic Regression & Evaluation Metrics
+## 05 — Logistic Regression & Evaluation Metrics
 Supervised learning intro, logistic regression, confusion matrices, evaluation metrics, ROC/AUC curves, and class imbalance.
 
 | # | Notebook |
@@ -94,7 +94,7 @@ Supervised learning intro, logistic regression, confusion matrices, evaluation m
 
 ---
 
-## S26 — MLE & Logistic Regression (Deep Dive)
+## 06 — MLE & Logistic Regression (Deep Dive)
 Coding logistic regression from scratch, gradient descent review, logistic regression model comparisons, and MLE.
 
 | # | Notebook |
@@ -110,7 +110,7 @@ Coding logistic regression from scratch, gradient descent review, logistic regre
 
 ---
 
-## S27 — K-Nearest Neighbors
+## 07 — K-Nearest Neighbors
 Distance metrics, KNN algorithm, finding the best K, and KNN with Scikit-Learn.
 
 | # | Notebook |
@@ -124,7 +124,7 @@ Distance metrics, KNN algorithm, finding the best K, and KNN with Scikit-Learn.
 
 ---
 
-## S28 — Naive Bayes
+## 08 — Naive Bayes
 Bayesian classification, classifiers with Bayes, document classification (Naive Bayes), and Gaussian Naive Bayes.
 
 | # | Notebook |
@@ -137,7 +137,7 @@ Bayesian classification, classifiers with Bayes, document classification (Naive 
 
 ---
 
-## S29 — Decision Trees
+## 09 — Decision Trees
 Introduction to decision trees, entropy & information gain, ID3 algorithm, Scikit-Learn implementation, regression CART trees, and tuning.
 
 | # | Notebook |
@@ -155,7 +155,7 @@ Introduction to decision trees, entropy & information gain, ID3 algorithm, Sciki
 
 ---
 
-## S30 — Ensemble Methods
+## 10 — Ensemble Methods
 Ensemble methods, random forests, gradient boosting, XGBoost, and GridSearchCV hyperparameter tuning.
 
 | # | Notebook |
@@ -173,7 +173,7 @@ Ensemble methods, random forests, gradient boosting, XGBoost, and GridSearchCV h
 
 ---
 
-## S31 — Support Vector Machines
+## 11 — Support Vector Machines
 SVM theory, building SVMs from scratch, Scikit-Learn implementation, and the kernel trick.
 
 | # | Notebook |
@@ -188,7 +188,7 @@ SVM theory, building SVMs from scratch, Scikit-Learn implementation, and the ker
 
 ---
 
-## S32 — Pipelines
+## 12 — Pipelines
 Building and using Scikit-Learn pipelines for streamlined ML workflows.
 
 | # | Notebook |

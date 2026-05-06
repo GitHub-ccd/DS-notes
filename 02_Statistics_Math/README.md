@@ -1,6 +1,6 @@
-# 02 — Statistics & Math
+﻿# 02 — Statistics & Math
 
-Sections S11–S21 of the Data Science curriculum, reorganized into flat per-section notebooks.
+Sections 01–11, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
@@ -10,7 +10,7 @@ Each section folder contains:
 
 ---
 
-## S11 — Combinatorics & Probability
+## 01 — Combinatorics & Probability
 Sets, permutations, factorials, combinations, conditional probability, the law of total probability, and probability simulations.
 
 | # | Notebook |
@@ -28,7 +28,7 @@ Sets, permutations, factorials, combinations, conditional probability, the law o
 
 ---
 
-## S12 — Statistical Distributions
+## 02 — Statistical Distributions
 PMF, PDF, CDF, Bernoulli & Binomial, Normal, Standard Normal, skewness, kurtosis, z-scores, p-values, and use cases for common distributions.
 
 | # | Notebook |
@@ -48,7 +48,7 @@ PMF, PDF, CDF, Bernoulli & Binomial, Normal, Standard Normal, skewness, kurtosis
 
 ---
 
-## S13 — Central Limit Theorem & Confidence Intervals
+## 03 — Central Limit Theorem & Confidence Intervals
 Sampling, the Central Limit Theorem, confidence intervals, t-distribution, and inferential statistics.
 
 | # | Notebook |
@@ -63,7 +63,7 @@ Sampling, the Central Limit Theorem, confidence intervals, t-distribution, and i
 
 ---
 
-## S14 — Hypothesis Testing
+## 04 — Hypothesis Testing
 Null hypothesis, p-values, one/two-sample t-tests, effect sizes, experimental design, resampling methods, and Type I & II errors.
 
 | # | Notebook |
@@ -81,7 +81,7 @@ Null hypothesis, p-values, one/two-sample t-tests, effect sizes, experimental de
 
 ---
 
-## S15 — ANOVA & Statistical Power
+## 05 — ANOVA & Statistical Power
 ANOVA, Welch's t-test, Kolmogorov-Smirnov test, statistical power, effect sizes, multiple comparisons problem, and Goodhart's Law.
 
 | # | Notebook |
@@ -98,7 +98,7 @@ ANOVA, Welch's t-test, Kolmogorov-Smirnov test, statistical power, effect sizes,
 
 ---
 
-## S16 — A/B Testing
+## 06 — A/B Testing
 A/B testing concepts, design, analysis, in-depth lab, and website A/B testing.
 
 | # | Notebook |
@@ -112,7 +112,7 @@ A/B testing concepts, design, analysis, in-depth lab, and website A/B testing.
 
 ---
 
-## S17 — Bayesian Statistics
+## 07 — Bayesian Statistics
 Bayes' theorem, Bayesian vs. frequentist approaches, MAP estimation, MLE, multinomial Bayes, and the Monty Hall problem.
 
 | # | Notebook |
@@ -127,7 +127,7 @@ Bayes' theorem, Bayesian vs. frequentist approaches, MAP estimation, MLE, multin
 
 ---
 
-## S18 — Simple Linear Regression
+## 08 — Simple Linear Regression
 OLS regression, statsmodels, regression assumptions, diagnostics, coefficient of determination, significance, p-values, and statistical learning theory.
 
 | # | Notebook |
@@ -146,7 +146,7 @@ OLS regression, statsmodels, regression assumptions, diagnostics, coefficient of
 
 ---
 
-## S19 — Multiple Regression
+## 09 — Multiple Regression
 Multiple linear regression, categorical variables, feature scaling, multicollinearity, cross-validation, log transformations, inference vs. prediction, and model validation.
 
 | # | Notebook |
@@ -169,7 +169,7 @@ Multiple linear regression, categorical variables, feature scaling, multicolline
 
 ---
 
-## S20 — Linear Model Extensions
+## 10 — Linear Model Extensions
 Bias-variance tradeoff, interaction terms, and polynomial regression.
 
 | # | Notebook |
@@ -182,7 +182,7 @@ Bias-variance tradeoff, interaction terms, and polynomial regression.
 
 ---
 
-## S21 — Appendix
+## 11 — Appendix
 Supplementary topics: exponential, Poisson and uniform distributions, Monte Carlo simulations, recursive functions, full DS regression workflow, and data scrubbing.
 
 | # | Notebook |

@@ -1,6 +1,6 @@
-# 04 — Deep Learning
+﻿# 04 — Deep Learning
 
-Sections S33–S43 of the Data Science curriculum, reorganized into flat per-section notebooks.
+Sections 01–14, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
@@ -10,7 +10,7 @@ Each section folder contains:
 
 ---
 
-## S33 — Principal Component Analysis (PCA)
+## 01 — Principal Component Analysis (PCA)
 Unsupervised learning intro, curse of dimensionality, PCA theory (covariance matrix, eigendecomposition), PCA with NumPy and Scikit-Learn, digital image processing, and pipelines with PCA.
 
 | # | Notebook |
@@ -28,7 +28,7 @@ Unsupervised learning intro, curse of dimensionality, PCA theory (covariance mat
 
 ---
 
-## S34 — Clustering
+## 02 — Clustering
 K-means clustering, hierarchical agglomerative clustering, common clustering problems, market segmentation, and semi-supervised learning & look-alike models.
 
 | # | Notebook |
@@ -43,7 +43,7 @@ K-means clustering, hierarchical agglomerative clustering, common clustering pro
 
 ---
 
-## S35 — PySpark & Big Data
+## 03 — PySpark & Big Data
 Big data concepts, MapReduce, Resilient Distributed Datasets (RDDs), Apache Spark, PySpark ML, and Docker installation for Spark.
 
 | # | Notebook |
@@ -60,7 +60,7 @@ Big data concepts, MapReduce, Resilient Distributed Datasets (RDDs), Apache Spar
 
 ---
 
-## S36 — Recommendation Systems
+## 04 — Recommendation Systems
 Collaborative filtering, SVD, ALS matrix factorization, and implementing recommender systems.
 
 | # | Notebook |
@@ -74,7 +74,7 @@ Collaborative filtering, SVD, ALS matrix factorization, and implementing recomme
 
 ---
 
-## S37 — Time Series
+## 05 — Time Series
 Time series data management, types of trends, testing and removing trends, decomposition, and visualization.
 
 | # | Notebook |
@@ -91,7 +91,7 @@ Time series data management, types of trends, testing and removing trends, decom
 
 ---
 
-## S38 — Time Series Models
+## 06 — Time Series Models
 Basic time series models, ARMA models, and Statsmodels implementation.
 
 | # | Notebook |
@@ -104,7 +104,7 @@ Basic time series models, ARMA models, and Statsmodels implementation.
 
 ---
 
-## S39 — Natural Language Processing (NLP)
+## 07 — Natural Language Processing (NLP)
 Regular expressions, NLTK, corpus statistics, feature engineering for text, word vectorization, text classification, POS tagging, and context-free grammars.
 
 | # | Notebook |
@@ -124,7 +124,7 @@ Regular expressions, NLTK, corpus statistics, feature engineering for text, word
 
 ---
 
-## S40 — Neural Networks
+## 08 — Neural Networks
 Introduction to neural networks, Keras fundamentals, and building basic neural network models.
 
 | # | Notebook |
@@ -136,7 +136,7 @@ Introduction to neural networks, Keras fundamentals, and building basic neural n
 
 ---
 
-## S41 — Deep Learning
+## 09 — Deep Learning
 Deeper neural networks, image classification with MLPs, and deep learning workflows.
 
 | # | Notebook |
@@ -148,7 +148,7 @@ Deeper neural networks, image classification with MLPs, and deep learning workfl
 
 ---
 
-## S42 — Tuning Neural Networks
+## 10 — Tuning Neural Networks
 Neural network tuning strategies: normalization and regularization techniques, end-to-end tuning lab.
 
 | # | Notebook |
@@ -161,7 +161,7 @@ Neural network tuning strategies: normalization and regularization techniques, e
 
 ---
 
-## S43 — AWS & Model Productionization
+## 11 — AWS & Model Productionization
 AWS ecosystem, SageMaker, and productionizing machine learning models for deployment.
 
 | # | Notebook |
