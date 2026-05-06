@@ -53,7 +53,10 @@
       "Bash(grep -rEn \" S[0-9]{1,2}[^_0-9]\" --include=\"*.md\")",
       "Bash(git rm *)",
       "Bash(git commit -m ' *)",
-      "Bash(powershell -Command ' *)"
+      "Bash(powershell -Command ' *)",
+      "Bash(git add *)",
+      "Bash(mkdir -p data)",
+      "Bash(find 12_Convolutional_Neural_Networks/dsc-* 13_Transfer_Learning/dsc-* 14_Graph_Theory/dsc-* -type f)"
     ]
   }
 }
