@@ -1,4 +1,4 @@
-# MOD_3 Changes (2026 Update)
+# 03_Classical_ML — Changes (2026 Update)
 
 ## Summary notebooks — all 12 rewritten
 

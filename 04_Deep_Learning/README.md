@@ -1,4 +1,4 @@
-# MOD_4 — Advanced Machine Learning & Deep Learning
+# 04 — Deep Learning
 
 Sections S33–S43 of the Data Science curriculum, reorganized into flat per-section notebooks.
 

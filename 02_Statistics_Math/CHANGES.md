@@ -1,4 +1,4 @@
-# MOD_2 — Change Log (2026 Update)
+# 02_Statistics_Math — Change Log (2026 Update)
 
 **Status:** ✅ Complete  
 **Date:** 2026-05-04
@@ -36,7 +36,7 @@
 ---
 
 ## What Was Left Alone (Evergreen)
-The core mathematics in MOD_2 does not expire:
+The core mathematics in 02_Statistics_Math does not expire:
 - **S11** Combinatorics & Probability — timeless
 - **S12** Statistical Distributions — timeless
 - **S13** Central Limit Theorem — timeless

@@ -1,4 +1,4 @@
-# MOD_3 — Machine Learning Fundamentals
+# 03 — Classical ML
 
 Sections S21–S32 of the Data Science curriculum, reorganized into flat per-section notebooks.
 

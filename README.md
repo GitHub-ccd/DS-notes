@@ -1,24 +1,25 @@
 # DS Notes — Data Science Curriculum
 
-Personal notes, labs, and projects from the Data Science program, organized across four modules covering the full ML pipeline from Python fundamentals to deep learning and cloud deployment.
+Personal notes, labs, and projects from the Data Science program, organized across five modules covering the full ML pipeline from Python fundamentals to LLMs and AI agents.
 
 ---
 
 ## Structure
 
-Each module is a self-contained folder with sections numbered S1–S43 across the four modules. After reorganization, every section contains flat numbered notebooks, an `assets/` folder for images, and a `data/` folder for datasets — no more nested `dsc-*` lesson subfolders.
+Each module is a self-contained folder with sections numbered S1–S50 across the five modules. Every section contains flat numbered notebooks, an `assets/` folder for images, and a `data/` folder for datasets — no nested lesson subfolders.
 
 ```
 DS-notes/
-├── MOD_1/   # S1–S10   Python, Pandas, EDA, SQL, APIs, Webscraping
-├── MOD_2/   # S11–S21  Probability, Statistics, Linear Regression
-├── MOD_3/   # S21–S32  ML Algorithms (Logistic Reg, Trees, SVM, etc.)
-└── MOD_4/   # S33–S43  Advanced ML, Deep Learning, NLP, AWS
+├── 01_Python_DataTools/   # S1–S10   Python, Pandas, EDA, SQL, APIs, Webscraping
+├── 02_Statistics_Math/    # S11–S21  Probability, Statistics, Linear Regression
+├── 03_Classical_ML/       # S21–S32  ML Algorithms (Logistic Reg, Trees, SVM, etc.)
+├── 04_Deep_Learning/      # S33–S43  Advanced ML, Deep Learning, NLP, Cloud ML
+└── 05_LLMs_GenAI/         # S44–S50  Transformers, RAG, Agents, Fine-tuning, LLMOps
 ```
 
 ---
 
-## Module 1 — Python, Pandas, EDA & Webscraping
+## 01 — Python & Data Tools
 **Sections S1–S10**
 
 | Section | Topic |
@@ -36,7 +37,7 @@ DS-notes/
 
 ---
 
-## Module 2 — Probability & Statistics for Machine Learning
+## 02 — Statistics & Math
 **Sections S11–S21**
 
 | Section | Topic |
@@ -55,7 +56,7 @@ DS-notes/
 
 ---
 
-## Module 3 — Machine Learning Fundamentals
+## 03 — Classical ML
 **Sections S21–S32**
 
 | Section | Topic |
@@ -75,7 +76,7 @@ DS-notes/
 
 ---
 
-## Module 4 — Advanced ML, Deep Learning & Deployment
+## 04 — Deep Learning
 **Sections S33–S43**
 
 | Section | Topic |
@@ -90,10 +91,25 @@ DS-notes/
 | S40 | Neural Networks — Keras, building and training basic neural networks |
 | S41 | Deep Learning — Deeper networks, image classification with MLPs |
 | S42 | Tuning Neural Networks — Normalization, regularization, end-to-end tuning |
-| S43 | AWS & Productionization — SageMaker, AWS ecosystem, deploying ML models |
+| S43 | Cloud ML Platforms — AWS SageMaker, Azure ML, GCP Vertex AI |
+
+---
+
+## 05 — LLMs & GenAI
+**Sections S44–S50**
+
+| Section | Topic |
+|---------|-------|
+| S44 | Transformers & Attention — Self-attention, multi-head attention, positional encoding, BERT/GPT/T5 |
+| S45 | HuggingFace Ecosystem — Hub, tokenizers, datasets library, PEFT/LoRA, Accelerate |
+| S46 | LLMs — Pre-training/SFT/RLHF, prompt engineering, chain-of-thought, APIs, evaluation |
+| S47 | RAG — Chunking, embeddings, vector databases, hybrid retrieval, end-to-end pipeline |
+| S48 | AI Agents — Tool use, function calling, LangGraph, multi-agent frameworks |
+| S49 | LLM Fine-tuning — When to fine-tune, QLoRA, instruction tuning, DPO, Unsloth |
+| S50 | LLMOps — Quantization, inference servers, monitoring, cost optimization |
 
 ---
 
 ## Tools & Libraries
 
-`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn` `Statsmodels` `NLTK` `BeautifulSoup` `SQLite` `MongoDB` `PySpark` `Keras` `TensorFlow` `AWS SageMaker`
+`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn` `Statsmodels` `NLTK` `BeautifulSoup` `SQLite` `MongoDB` `PySpark` `PyTorch` `Keras` `HuggingFace` `LangChain` `LangGraph` `FAISS` `ChromaDB` `Anthropic` `AWS SageMaker` `Azure ML` `GCP Vertex AI`

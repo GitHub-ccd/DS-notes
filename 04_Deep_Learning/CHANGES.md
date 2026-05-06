@@ -1,4 +1,4 @@
-# MOD_4 Changes (2026 Update)
+# 04_Deep_Learning — Changes (2026 Update)
 
 ## Summary notebooks — all 14 rewritten
 

@@ -1,4 +1,4 @@
-# MOD_1 — Python, Pandas, EDA & Webscraping
+# 01 — Python & Data Tools
 
 Sections S1–S10 of the Data Science curriculum, reorganized into flat per-section notebooks.
 

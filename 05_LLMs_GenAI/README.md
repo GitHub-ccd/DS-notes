@@ -1,4 +1,4 @@
-# MOD_5 — LLMs, GenAI & Agents
+# 05 — LLMs & GenAI
 
 Sections S44–S50. A new module built from scratch in 2026 covering the transformer era of ML — everything from the attention mechanism through to productionising LLM-powered systems.
 
@@ -6,7 +6,7 @@ Each section folder contains:
 - Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
 - A section summary notebook: `S{N}_{SectionName}.ipynb`
 
-**Prerequisite:** MOD_4 S39–S42 (NLP, Neural Networks) and S39_14 (HuggingFace `transformers` intro).
+**Prerequisite:** 04_Deep_Learning S39–S42 (NLP, Neural Networks) and S39_14 (HuggingFace `transformers` intro).
 
 ---
 

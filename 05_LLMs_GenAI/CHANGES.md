@@ -1,8 +1,8 @@
-# MOD_5 — Changes Log (2026)
+# 05_LLMs_GenAI — Changes Log (2026)
 
 ## Summary
 
-MOD_5 is an entirely new module, built from scratch in 2026. There was no prior MOD_5 content. The module covers Large Language Models, Generative AI, and AI Agents — the most significant development in machine learning since deep learning.
+05_LLMs_GenAI is an entirely new module, built from scratch in 2026. There was no prior 05_LLMs_GenAI content. The module covers Large Language Models, Generative AI, and AI Agents — the most significant development in machine learning since deep learning.
 
 ## New Content
 
@@ -62,7 +62,7 @@ MOD_5 is an entirely new module, built from scratch in 2026. There was no prior 
 - `S50_02_inference_servers.ipynb` — Ollama, vLLM (PagedAttention), streaming TTFT, deployment guide
 - `S50_03_llm_monitoring.ipynb` — LLMTrace logging, LangSmith setup, quality monitoring, observability stack
 - `S50_04_cost_optimization.ipynb` — Model pricing comparison, prompt caching savings, output length control, app-level caching
-- `S50_05_llmops_overview.ipynb` — End-to-end LLMOps wrapper, maturity model, MOD_5 summary table
+- `S50_05_llmops_overview.ipynb` — End-to-end LLMOps wrapper, maturity model, 05_LLMs_GenAI summary table
 
 ## API and library choices
 - All API notebooks use `claude-haiku-4-5-20251001` (fast, cost-effective for examples)

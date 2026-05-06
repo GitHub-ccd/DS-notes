@@ -23,18 +23,18 @@ Before adding new content, identify and update stale/legacy material module by m
 
 | Module | Verdict | Priority |
 |--------|---------|----------|
-| **MOD_1** — Python, Pandas, SQL, APIs, Scraping | Mostly solid, 2 sections needed work | ✅ Done |
-| **MOD_2** — Probability, Stats, Regression | Evergreen math, housekeeping only | ✅ Done |
-| **MOD_3** — Classical ML (Logistic Reg, Trees, SVM, etc.) | Solid, sklearn still dominant | ✅ Done |
-| **MOD_4** — Deep Learning, NLP, Cloud ML | Needs significant work — field moved fastest here | ✅ Done |
-| **MOD_5** — LLMs, GenAI & Agents | New module — no legacy content, built from scratch | ✅ Done |
+| **01_Python_DataTools** — Python, Pandas, SQL, APIs, Scraping | Mostly solid, 2 sections needed work | ✅ Done |
+| **02_Statistics_Math** — Probability, Stats, Regression | Evergreen math, housekeeping only | ✅ Done |
+| **03_Classical_ML** — Classical ML (Logistic Reg, Trees, SVM, etc.) | Solid, sklearn still dominant | ✅ Done |
+| **04_Deep_Learning** — Deep Learning, NLP, Cloud ML | Needs significant work — field moved fastest here | ✅ Done |
+| **05_LLMs_GenAI** — LLMs, GenAI & Agents | New module — no legacy content, built from scratch | ✅ Done |
 
 ---
 
 ## Module Status
 
-### ✅ MOD_1 — Complete
-See [MOD_1/CHANGES.md](./MOD_1/CHANGES.md)
+### ✅ 01_Python_DataTools — Complete
+See [01_Python_DataTools/CHANGES.md](./01_Python_DataTools/CHANGES.md)
 
 Key actions taken:
 - Removed Flatiron Learn-platform notebooks (S1_14, S1_15)
@@ -43,8 +43,8 @@ Key actions taken:
 - Fixed S9 summary (had stray SQL links); added `S9_08_llm_apis.ipynb` (Anthropic API patterns)
 - Rebuilt S10 WebScraping summary: Selenium → Playwright comparison, ethics section
 
-### ✅ MOD_2 — Complete
-See [MOD_2/CHANGES.md](./MOD_2/CHANGES.md)
+### ✅ 02_Statistics_Math — Complete
+See [02_Statistics_Math/CHANGES.md](./02_Statistics_Math/CHANGES.md)
 
 Key actions taken:
 - Removed 22 clutter files (make_pdf.ipynb, Sections_XX.ipynb, duplicates)
@@ -56,8 +56,8 @@ Key actions taken:
 - Added joblib/ONNX/MLflow note to S19 model persistence section
 - Added pickle security warning to S19_17
 
-### ✅ MOD_3 — Complete
-See [MOD_3/CHANGES.md](./MOD_3/CHANGES.md)
+### ✅ 03_Classical_ML — Complete
+See [03_Classical_ML/CHANGES.md](./03_Classical_ML/CHANGES.md)
 
 Key actions taken:
 - Rewrote all 12 broken summary notebooks (S21–S32) — replaced dsc-* links with working relative links
@@ -67,9 +67,9 @@ Key actions taken:
 - Added SHAP cross-reference notes to S29, S30, and S31 summaries
 - Added `S32_05_shap_explainability.ipynb` — SHAP values for tree models and sklearn pipelines
 
-### ✅ MOD_4 — Complete
+### ✅ 04_Deep_Learning — Complete
 
-See [MOD_4/CHANGES.md](./MOD_4/CHANGES.md)
+See [04_Deep_Learning/CHANGES.md](./04_Deep_Learning/CHANGES.md)
 
 Key actions taken:
 - Rewrote all 14 summary notebooks (S33–S43 + CNN, Transfer Learning, Graph Theory)
@@ -85,7 +85,7 @@ Key actions taken:
   - `S43_07_azure_ml.ipynb` — Azure ML SDK v2, MLflow tracking, managed endpoints
   - `S43_08_gcp_vertex_ai.ipynb` — Vertex AI, Kubeflow Pipelines, Gemini API
 
-### ✅ MOD_5 — Complete
+### ✅ 05_LLMs_GenAI — Complete
 
 **Sections:**
 
@@ -99,7 +99,7 @@ Key actions taken:
 | S49 | LLM Fine-tuning | 5 lessons: when to fine-tune, LoRA/QLoRA, instruction tuning, RLHF/DPO, end-to-end with Unsloth/TRL |
 | S50 | LLMOps & Deployment | 5 lessons: quantization, inference servers, LLM monitoring, cost optimization, LLMOps overview |
 
-**Note:** S39_14 (MOD_4) is the entry point to HuggingFace `transformers` — S44/S45 go deeper into theory and advanced tooling.
+**Note:** S39_14 (04_Deep_Learning) is the entry point to HuggingFace `transformers` — S44/S45 go deeper into theory and advanced tooling.
 
 ---
 

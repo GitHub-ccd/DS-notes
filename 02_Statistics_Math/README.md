@@ -1,4 +1,4 @@
-# MOD_2 — Probability & Statistics for Machine Learning
+# 02 — Statistics & Math
 
 Sections S11–S21 of the Data Science curriculum, reorganized into flat per-section notebooks.
 
