@@ -64,7 +64,8 @@
       "Bash(Get-ChildItem -Directory)",
       "Bash(Select-Object -ExpandProperty Name)",
       "PowerShell(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\02_Statistics_Math\" -Directory | ForEach-Object { $_.Name })",
-      "Bash(powershell -Command \"Get-ChildItem -Recurse -Filter '*.ipynb' | Select-Object FullName\")"
+      "Bash(powershell -Command \"Get-ChildItem -Recurse -Filter '*.ipynb' | Select-Object FullName\")",
+      "Bash(cd \"e:/My_GitHub__projects/DS-notes\" *)"
     ]
   }
 }
