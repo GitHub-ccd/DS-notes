@@ -3,8 +3,8 @@
 Sections 01–10, reorganized into flat per-section notebooks.
 
 Each section folder contains:
-- Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
-- A section summary notebook: `S{N}_{SectionName}.ipynb`
+- Numbered lesson notebooks: `NN_topic.ipynb`
+- `README.md` — section overview and notebook descriptions
 - `assets/` — images and HTML files referenced by notebooks
 - `data/` — CSV, JSON, SQLite and other data files
 
@@ -168,3 +168,23 @@ JSON format, known and unknown JSON schemas, transforming JSON data, and working
 | 03 | JSON & APIs Intro |
 | 04–05 | JSON |
 | 06–07 | Working with Known JSON Schemas |
+
+---
+
+## 10 — Web Scraping
+HTML and CSS fundamentals, BeautifulSoup, and scraping real websites with Python.
+
+| # | Notebook |
+|---|----------|
+| 01 | CSS Code Along |
+| 02 | HTML & CSS Scraping Intro |
+| 03 | HTML & CSS Scraping Recap |
+| 05 | HTML Introduction |
+| 06 | Intro to CSS |
+| 08 | Researching HTML Elements |
+| 09 | Scraping Concerts Lab |
+| 10 | Scraping Images |
+| 11 | Separating Content & Presentation |
+| 12 | Web Scraping in Practice |
+| 13 | Web Scraping Lab |
+| 14 | Web Scraping with Beautiful Soup |

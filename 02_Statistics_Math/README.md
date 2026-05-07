@@ -3,8 +3,8 @@
 Sections 01–11, reorganized into flat per-section notebooks.
 
 Each section folder contains:
-- Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
-- A section summary notebook: `S{N}_{SectionName}.ipynb`
+- Numbered lesson notebooks: `NN_topic.ipynb`
+- `README.md` — section overview and notebook descriptions
 - `assets/` — images and figures referenced by notebooks
 - `data/` — CSV and other data files
 

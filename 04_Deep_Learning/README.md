@@ -3,8 +3,8 @@
 Sections 01–14, reorganized into flat per-section notebooks.
 
 Each section folder contains:
-- Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
-- A section summary notebook: `S{N}_{SectionName}.ipynb`
+- Numbered lesson notebooks: `NN_topic.ipynb`
+- `README.md` — section overview and notebook descriptions
 - `assets/` — images and figures referenced by notebooks
 - `data/` — CSV and other data files
 
@@ -161,8 +161,8 @@ Neural network tuning strategies: normalization and regularization techniques, e
 
 ---
 
-## 11 — AWS & Model Productionization
-AWS ecosystem, SageMaker, and productionizing machine learning models for deployment.
+## 11 — Cloud ML & Productionization
+AWS SageMaker, Azure ML, and GCP Vertex AI — productionising ML models across the three major cloud platforms.
 
 | # | Notebook |
 |---|----------|
@@ -172,3 +172,55 @@ AWS ecosystem, SageMaker, and productionizing machine learning models for deploy
 | 04 | Section Recap |
 | 05 | Productionizing Models with SageMaker |
 | 06 | The AWS Ecosystem |
+| 07 | Azure ML |
+| 08 | GCP Vertex AI |
+
+---
+
+## 12 — Convolutional Neural Networks (CNNs)
+CNN architecture, building and training convolutional networks, and visualizing what CNNs learn.
+
+| # | Notebook |
+|---|----------|
+| 01 | CNN Introduction |
+| 02 | Convolutional Neural Networks |
+| 03 | Convolutional Neural Networks Codealong |
+| 04 | Building a CNN from Scratch |
+| 05 | Visualizing Activation Functions Lab |
+| 06 | Visualizing Intermediate Activations |
+| 07 | CNN Recap |
+
+---
+
+## 13 — Transfer Learning
+Using pre-trained networks (VGG, ResNet, Inception) for image classification tasks.
+
+| # | Notebook |
+|---|----------|
+| 01 | Transfer Learning Intro |
+| 02 | Using Pretrained Networks |
+| 03 | Using Pretrained Networks Codealong |
+| 04 | Image Classification Lab |
+| 05 | Transfer Learning Recap |
+
+---
+
+## 14 — Graph Theory & Network Analysis
+Graph theory fundamentals, NetworkX, centrality measures, shortest paths, clustering, community detection, and graph-based recommendation systems.
+
+| # | Notebook |
+|---|----------|
+| 01 | Graph Theory Introduction |
+| 02 | Intro to Graph Theory |
+| 03 | NetworkX Intro |
+| 04 | NetworkX Intro Lab |
+| 05 | Node Centrality |
+| 06 | Node Centrality Lab |
+| 07 | Graph Theory Shortest Path |
+| 08 | Graph Theory Shortest Path Lab |
+| 09 | Network Clustering |
+| 10 | Network Clustering Lab |
+| 11 | Community Detection Lab |
+| 12 | Recommendation Systems with Graphs |
+| 13 | Recommendation Systems Lab |
+| 14 | Graph Theory Recap |

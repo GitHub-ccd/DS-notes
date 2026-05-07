@@ -3,8 +3,8 @@
 Sections 01–07. A new module built from scratch in 2026 covering the transformer era of ML — everything from the attention mechanism through to productionising LLM-powered systems.
 
 Each section folder contains:
-- Numbered lesson notebooks: `S{N}_{seq}_{topic}.ipynb`
-- A section summary notebook: `S{N}_{SectionName}.ipynb`
+- Numbered lesson notebooks: `NN_topic.ipynb`
+- `README.md` — section overview and notebook descriptions
 
 **Prerequisite:** 04_Deep_Learning sections 07–10 (NLP, Neural Networks) and S39_14 (HuggingFace `transformers` intro).
 
