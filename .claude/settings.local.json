@@ -56,7 +56,15 @@
       "Bash(powershell -Command ' *)",
       "Bash(git add *)",
       "Bash(mkdir -p data)",
-      "Bash(find 12_Convolutional_Neural_Networks/dsc-* 13_Transfer_Learning/dsc-* 14_Graph_Theory/dsc-* -type f)"
+      "Bash(find 12_Convolutional_Neural_Networks/dsc-* 13_Transfer_Learning/dsc-* 14_Graph_Theory/dsc-* -type f)",
+      "Bash(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\" -Directory)",
+      "Bash(powershell -NoProfile -Command ' *)",
+      "Bash(Get-ChildItem \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\01_Python_DataTools\\\\\" -Directory | Select-Object Name)",
+      "Bash(grep -E \"\\\\.ipynb$\")",
+      "Bash(Get-ChildItem -Directory)",
+      "Bash(Select-Object -ExpandProperty Name)",
+      "PowerShell(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\02_Statistics_Math\" -Directory | ForEach-Object { $_.Name })",
+      "Bash(powershell -Command \"Get-ChildItem -Recurse -Filter '*.ipynb' | Select-Object FullName\")"
     ]
   }
 }
