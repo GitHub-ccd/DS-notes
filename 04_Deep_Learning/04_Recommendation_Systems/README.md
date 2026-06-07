@@ -10,9 +10,7 @@ Collaborative filtering, SVD matrix factorisation, and ALS-based recommendations
 | `02_implementing_recommender_systems_lab.ipynb` | Recommender systems lab |
 | `03_implementing_recommender_systems.ipynb` | Building a recommender from scratch |
 | `04_matrix_factorization_als.ipynb` | ALS — Alternating Least Squares in Spark MLlib |
-| `05_recommendation_section_recap.ipynb` | Section recap |
 | `06_recommendation_system_introduction.ipynb` | Collaborative filtering, content-based, implicit vs explicit ratings |
-| `07_recommender_section_intro.ipynb` | Section introduction |
 
 ## 2026 Context
 

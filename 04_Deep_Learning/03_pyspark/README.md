@@ -14,7 +14,6 @@ MapReduce, Resilient Distributed Datasets (RDDs), Apache Spark, and machine lear
 | `06_resilient_distributed_datasets_rdd_lab.ipynb` | RDDs lab |
 | `07_spark_docker_installation.ipynb` | Running Spark locally with Docker |
 | `08_spark_introduction.ipynb` | Spark introduction — DataFrames, Spark SQL |
-| `09_spark_section_recap.ipynb` | Section recap |
 | `10_word_count_with_map_reduce_lab.ipynb` | Word count with MapReduce lab |
 
 ## 2026 Context

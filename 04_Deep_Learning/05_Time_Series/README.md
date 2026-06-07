@@ -12,7 +12,5 @@ Time series fundamentals — datetime indexing, trends, seasonality, decompositi
 | `04_removing_trends.ipynb` | Differencing and detrending to achieve stationarity |
 | `05_testing_for_trends_lab.ipynb` | Testing for trends lab |
 | `06_time_series_decomposition.ipynb` | Additive vs multiplicative decomposition, `seasonal_decompose` |
-| `07_time_series_section_intro.ipynb` | Section introduction |
-| `08_time_series_section_recap.ipynb` | Section recap |
 | `09_types_of_trends.ipynb` | Trend, seasonality, cyclicality, and irregular variation |
 | `10_visualizing_time_series_data_lab.ipynb` | Time series visualisation lab |

@@ -10,8 +10,6 @@ Forward and backpropagation, building networks with Keras, and an introduction t
 | `02_introduction_to_keras.ipynb` | Tensors, tensor operations, Keras model building |
 | `03_introduction_to_neural_networks_lab.ipynb` | Neural networks from scratch lab |
 | `04_introduction_to_neural_networks.ipynb` | Forward propagation, backpropagation, network types |
-| `05_neural_networks_section_intro.ipynb` | Section introduction |
-| `06_neural_networks_section_recap.ipynb` | Section recap |
 
 ## 2026 Context
 

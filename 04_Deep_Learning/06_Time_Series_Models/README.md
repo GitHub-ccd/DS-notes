@@ -12,7 +12,6 @@ Moving averages, exponential smoothing, ARMA, and ARIMA with Statsmodels.
 | `04_basic_time_series_models_lab.ipynb` | Basic time series models lab |
 | `05_basic_time_series_models.ipynb` | Moving averages and exponential smoothing |
 | `08_time_series_models_introduction.ipynb` | Section introduction |
-| `09_time_series_models_section_recap.ipynb` | Section recap |
 
 ## 2026 Context
 

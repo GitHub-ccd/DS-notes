@@ -6,8 +6,6 @@ Deeper networks, activation functions, and image classification with multi-layer
 
 | Notebook | Topic |
 |----------|-------|
-| `01_deep_learning_section_intro.ipynb` | Section introduction |
-| `02_deep_learning_section_recap.ipynb` | Section recap |
 | `03_deeper_neural_networks_lab.ipynb` | Deeper networks lab |
 | `04_deeper_neural_networks.ipynb` | Activation functions — sigmoid, tanh, ReLU, leaky ReLU |
 | `05_image_classification_with_mlps_lab.ipynb` | MNIST image classification lab |

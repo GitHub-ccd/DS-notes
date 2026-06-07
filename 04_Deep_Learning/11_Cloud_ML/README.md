@@ -8,8 +8,6 @@ Productionising ML models on AWS SageMaker, Microsoft Azure ML, and Google Cloud
 |----------|-------|
 | `01_data_science_and_machine_learning_engineering.ipynb` | Data science vs ML engineering — the productionisation gap |
 | `02_introduction_to_aws_sagemaker.ipynb` | SageMaker Studio, training jobs, built-in algorithms |
-| `03_productionizing_machine_learning_models_section_intro.ipynb` | Section introduction |
-| `04_productionizing_machine_learning_models_section_recap.ipynb` | Section recap |
 | `05_productionizing_models_with_sagemaker.ipynb` | SageMaker endpoints — deploying a trained model as a REST API |
 | `06_the_aws_ecosystem.ipynb` | S3, EC2, IAM, SageMaker — core AWS services for ML |
 | `07_azure_ml.ipynb` | Azure ML Studio, pipelines, managed endpoints, MLflow integration |
