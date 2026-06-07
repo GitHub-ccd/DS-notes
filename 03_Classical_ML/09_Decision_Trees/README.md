@@ -7,8 +7,6 @@ Entropy, information gain, CART, ID3, scikit-learn decision trees, and hyperpara
 | Notebook | Topic |
 |----------|-------|
 | `01_decision_trees_lab.ipynb` | Decision trees lab |
-| `02_decision_trees_section_intro.ipynb` | Section introduction |
-| `03_decision_trees_section_recap.ipynb` | Section recap |
 | `04_decision_trees_with_sklearn_codealong.ipynb` | Fitting and visualising `DecisionTreeClassifier` |
 | `05_entropy_and_information_gain.ipynb` | Shannon entropy and information gain as split criteria |
 | `06_ID3_trees_lab.ipynb` | ID3 algorithm lab |

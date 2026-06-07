@@ -8,7 +8,6 @@ Derivatives, rules of differentiation, and gradient descent as the optimisation 
 |----------|-------|
 | `01_applying_gradient_descent_lab.ipynb` | Gradient descent lab |
 | `02_calculus_introduction.ipynb` | Section introduction |
-| `03_calculus_section_recap.ipynb` | Section recap |
 | `04_derivatives_conclusion.ipynb` | Derivatives — conclusion and summary |
 | `05_derivatives_intro_lab.ipynb` | Derivatives introduction lab |
 | `06_derivatives_intro.ipynb` | Derivatives — slope as rate of change |

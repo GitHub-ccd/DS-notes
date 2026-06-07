@@ -19,6 +19,4 @@ Sets, permutations, combinations, conditional probability, and the law of total 
 | `11_permutations_and_factorials_lab.ipynb` | Permutations lab |
 | `12_permutations_and_factorials.ipynb` | Permutations and factorials |
 | `13_probability_introduction.ipynb` | Probability introduction |
-| `14_probability_section_intro.ipynb` | Section introduction |
-| `15_probability_section_recap.ipynb` | Section recap |
 | `16_probability_simulations_lab.ipynb` | Monte Carlo probability simulations lab |

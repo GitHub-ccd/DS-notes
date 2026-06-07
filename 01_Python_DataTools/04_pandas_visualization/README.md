@@ -17,8 +17,6 @@ NumPy arrays, Pandas DataFrames, importing and exploring data, statistical metho
 | `09_introducing_python_libraries.ipynb` | Overview of the Python data science stack |
 | `10_introduction_to_numpy.ipynb` | NumPy introduction |
 | `11_kaggle_and_boston_housing_dataset.ipynb` | Kaggle and the Boston Housing dataset |
-| `12_numpy_and_pandas_section_intro.ipynb` | Section introduction |
-| `13_numpy_and_pandas_section_recap.ipynb` | Section recap |
 | `14_pandas_series_and_dataframes_lab.ipynb` | Series and DataFrames lab |
 | `15_pandas_series_and_dataframes.ipynb` | Pandas Series and DataFrames |
 | `16_project_eda_with_pandas.ipynb` | EDA project with Pandas (part 1) |

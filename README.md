@@ -6,7 +6,12 @@ Personal notes, labs, and projects from the Data Science program, organized acro
 
 ## Structure
 
-Each module is a self-contained folder with sections numbered 01–NN (restarting within each module). Every section contains flat numbered notebooks, an `assets/` folder for images, and a `data/` folder for datasets — no nested lesson subfolders.
+Each module is a self-contained folder with sections numbered 01–NN (restarting within each module). Every section contains flat numbered notebooks and a `README.md` index — no nested lesson subfolders.
+
+**Two organizational styles coexist intentionally:**
+
+- **Modules 01–04** (original curriculum) — sections contain variable numbers of notebooks, paired lesson + `_lab` exercises, `assets/` folders for images, and `data/` folders for datasets.
+- **Module 05** (2026 rebuild) — exactly 5 focused notebooks per section, no lab pairs, no assets or data folders. References external resources rather than embedding screenshots. No helper scripts or generated files.
 
 ```
 DS-notes/

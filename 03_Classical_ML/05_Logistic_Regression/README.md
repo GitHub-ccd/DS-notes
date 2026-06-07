@@ -16,7 +16,6 @@ Logistic regression, confusion matrices, precision/recall, ROC/AUC, and class im
 | `08_logistic_regression_in_scikit_learn_lab.ipynb` | Logistic regression in scikit-learn lab |
 | `09_logistic_regression_in_scikit_learn.ipynb` | Normalise → split → fit → predict workflow |
 | `10_logistic_regression_intro.ipynb` | Section introduction |
-| `11_logistic_regression_section_recap.ipynb` | Section recap |
 | `12_roc_curves_and_auc_lab.ipynb` | ROC and AUC lab |
 | `13_roc_curves_and_auc.ipynb` | ROC curve — TPR vs FPR across thresholds, AUC interpretation |
 | `14_visualizing_confusion_matrices_lab.ipynb` | Visualising confusion matrices lab |

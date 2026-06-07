@@ -8,8 +8,6 @@ Non-relational databases: document stores (MongoDB) and vector databases — the
 |----------|-------|
 | `01_mongodb_lab.ipynb` | MongoDB CRUD lab |
 | `02_mongodb.ipynb` | MongoDB with pymongo — insert, find, update, delete |
-| `03_nosql_databases_section_intro.ipynb` | Section introduction — the NoSQL family |
-| `04_nosql_databases_section_recap.ipynb` | Section recap |
 | `05_nosql_document_stores.ipynb` | Document store concepts — JSON documents, flexible schema |
 | `06_vector_databases.ipynb` | Vector databases — ChromaDB, FAISS, semantic search |
 

@@ -12,5 +12,3 @@ Matplotlib customisation, Seaborn statistical plots, subplots, and data visualis
 | `04_seaborn_lab.ipynb` | Seaborn lab |
 | `05_seaborn.ipynb` | Seaborn — categorical, distribution, and relational plots |
 | `06_subplots_and_enumeration_lab.ipynb` | Subplots and enumeration lab |
-| `07_visualizations_section_intro.ipynb` | Section introduction |
-| `08_visualizations_section_recap.ipynb` | Section recap |

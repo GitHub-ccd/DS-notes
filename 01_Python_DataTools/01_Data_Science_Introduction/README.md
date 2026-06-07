@@ -19,7 +19,6 @@ Python fundamentals: variables, data types, collections, conditionals, loops, an
 | `10_dictionaries.ipynb` | Python dictionaries |
 | `11_first_codealong.ipynb` | First coding session |
 | `12_floats_ints_booleans.ipynb` | Numeric types and booleans |
-| `13_introduction_section_intro.ipynb` | Section introduction |
 | `16_lists_lab.ipynb` | Python lists lab |
 | `17_lists.ipynb` | Python lists |
 | `18_looping_over_collections_lab.ipynb` | Looping over collections lab |

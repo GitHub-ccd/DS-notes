@@ -11,7 +11,6 @@ Vectors, matrices, matrix multiplication, systems of linear equations, and regre
 | `03_linalg_mat_multiplication_codealong.ipynb` | Matrix multiplication rules and NumPy implementation |
 | `04_linalg_regression_codealong.ipynb` | Linear regression as a matrix equation — the normal equation |
 | `05_linalg_regression_lab.ipynb` | Matrix regression lab |
-| `06_linalg_section_recap.ipynb` | Section recap |
 | `07_lineq_numpy_codealong.ipynb` | Solving linear equations with NumPy |
 | `08_lineq_numpy_lab.ipynb` | Linear equations lab |
 | `09_lingalg_linear_equations.ipynb` | Systems of linear equations and geometric interpretation |

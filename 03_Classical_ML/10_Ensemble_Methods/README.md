@@ -7,8 +7,6 @@ Bagging, random forests, gradient boosting, XGBoost, and hyperparameter search w
 | Notebook | Topic |
 |----------|-------|
 | `01_ensemble_methods.ipynb` | Bagging vs boosting — wisdom of crowds applied to models |
-| `02_ensemble_methods_section_intro.ipynb` | Section introduction |
-| `03_ensemble_methods_section_recap.ipynb` | Section recap |
 | `04_gradient_boosting_and_weak_learners.ipynb` | Sequential boosting — each tree corrects the residuals of the previous |
 | `05_gradient_boosting_lab.ipynb` | Gradient boosting lab |
 | `06_gridsearchcv_lab.ipynb` | GridSearchCV lab |

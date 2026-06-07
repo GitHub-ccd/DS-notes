@@ -10,8 +10,6 @@ Probability mass functions, probability density functions, cumulative distributi
 | `02_bernoulli_and_binomial_distribution.ipynb` | Bernoulli trials and the binomial distribution |
 | `03_cumulative_distribution_function_lab.ipynb` | CDF lab |
 | `04_cumulative_distribution_function.ipynb` | Cumulative distribution function |
-| `05_distributions_section_intro.ipynb` | Section introduction |
-| `06_distributions_section_recap.ipynb` | Section recap |
 | `07_normal_distribution_lab.ipynb` | Normal distribution lab |
 | `08_normal_distribution.ipynb` | Normal distribution — shape, parameters, standardisation |
 | `09_one_sample_z_test_lab.ipynb` | One-sample z-test lab |

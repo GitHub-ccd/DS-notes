@@ -20,8 +20,6 @@ Python control flow (loops, conditionals), defining and calling functions, and f
 | `12_measures_of_dispersion_quiz.ipynb` | Dispersion quiz |
 | `13_python_operators_functions_and_methods_lab.ipynb` | Built-in operators and methods lab |
 | `14_python_operators_functions_and_methods.ipynb` | Built-in operators, functions, and methods |
-| `15_python_section_intro.ipynb` | Section introduction |
-| `16_python_section_recap.ipynb` | Section recap |
 | `17_user_input_and_output_in_python.ipynb` | User input and output |
 | `18_using_nested_loops_lab.ipynb` | Nested loops lab |
 | `19_using_nested_loops.ipynb` | Nested loops |

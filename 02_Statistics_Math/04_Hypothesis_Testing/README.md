@@ -9,7 +9,6 @@ Null hypothesis significance testing, t-tests, effect sizes, Type I and II error
 | `01_effect_sizes.ipynb` | Effect sizes — Cohen's d, practical vs statistical significance |
 | `02_experimental_design.ipynb` | Experimental design — control groups, randomisation, confounders |
 | `03_hypothesis_testing_intro.ipynb` | Section introduction |
-| `04_hypothesis_testing_section_recap.ipynb` | Section recap |
 | `05_one_sample_t_tests_lab.ipynb` | One-sample t-test lab |
 | `06_p_values_and_null_hypothesis.ipynb` | p-values and the null hypothesis |
 | `07_resampling_methods_lab.ipynb` | Resampling methods lab |

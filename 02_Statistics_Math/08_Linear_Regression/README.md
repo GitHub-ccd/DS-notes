@@ -9,8 +9,6 @@ Ordinary least squares, Statsmodels, regression assumptions, diagnostics, and st
 | `01_coefficient_of_determination_lab.ipynb` | R² lab |
 | `02_coefficient_of_determination.ipynb` | R² — coefficient of determination |
 | `03_complete_regression_lab.ipynb` | End-to-end regression lab |
-| `04_linear_regression_section_intro.ipynb` | Section introduction |
-| `05_linear_regression_section_recap.ipynb` | Section recap |
 | `06_ols_regression_diagnostics.ipynb` | OLS diagnostics — residual plots, Q-Q plots, Cook's distance |
 | `07_ols_statsmodels_lab.ipynb` | OLS with Statsmodels lab |
 | `08_ols_statsmodels.ipynb` | Fitting and interpreting OLS models with Statsmodels |
