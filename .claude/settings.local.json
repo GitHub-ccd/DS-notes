@@ -65,7 +65,18 @@
       "Bash(Select-Object -ExpandProperty Name)",
       "PowerShell(Get-ChildItem -Path \"e:\\\\My_GitHub__projects\\\\DS-notes\\\\02_Statistics_Math\" -Directory | ForEach-Object { $_.Name })",
       "Bash(powershell -Command \"Get-ChildItem -Recurse -Filter '*.ipynb' | Select-Object FullName\")",
-      "Bash(cd \"e:/My_GitHub__projects/DS-notes\" *)"
+      "Bash(cd \"e:/My_GitHub__projects/DS-notes\" *)",
+      "WebSearch",
+      "Bash(dir /b /s /a:h)",
+      "Bash(findstr /v \".git\")",
+      "Bash(dir /b /s __pycache__)",
+      "Bash(dir /b /s .ipynb_checkpoints)",
+      "Bash(dir /b /s \"*.pyc\")",
+      "Bash(dir /b /s \".DS_Store\")",
+      "Bash(grep -E \"\\\\.\\(pyc|pyo|pkl|h5|pt|ckpt|log|tmp\\)$\")",
+      "Bash(grep -E \"\\\\.\\(pkl|h5|pt|ckpt|model|bin|weights\\)$\")",
+      "Bash(xargs -I{} git cat-file -s :{})",
+      "Bash(grep -E \"\\(__pycache__|\\\\.pyc|\\\\.ipynb_checkpoints|\\\\.DS_Store|Thumbs\\\\.db|\\\\.env$|\\\\.venv\\)\")"
     ]
   }
 }
