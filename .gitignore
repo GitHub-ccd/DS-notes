@@ -17,6 +17,15 @@ env/
 .env
 .env.*
 *.env
+!.env.example
+# Key files — use .env.example as the template; never commit actual keys
+*_key.txt
+*_key.json
+*_key.yaml
+*.key
+secrets.json
+secrets.yaml
+credentials.json
 
 # ── Jupyter ───────────────────────────────────────────────────────────────────
 .ipynb_checkpoints/
