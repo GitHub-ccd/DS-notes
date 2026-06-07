@@ -1,12 +1,25 @@
 ﻿# 02 — Statistics & Math
 
-Sections 01–11, reorganized into flat per-section notebooks.
+Sections 00–11, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `NN_topic.ipynb`
 - `README.md` — section overview and notebook descriptions
 - `assets/` — images and figures referenced by notebooks
 - `data/` — CSV and other data files
+
+---
+
+## 00 — Descriptive Statistics
+Gate section — Python implementations of the statistical building blocks used throughout this module.
+
+| # | Notebook |
+|---|----------|
+| 01 | Mathematical Notation — sigma/pi, Greek letters reference |
+| 02 | Central Tendency — mean, median, mode, distribution shape |
+| 03 | Dispersion — variance, std dev, IQR, percentiles, box plots |
+| 04 | Correlation & Covariance — lesson + lab built from scratch |
+| 05 | Implementing Statistics — capstone lab on the NHIS dataset |
 
 ---
 

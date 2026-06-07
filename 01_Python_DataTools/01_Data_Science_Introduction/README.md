@@ -6,7 +6,6 @@ Python fundamentals: variables, data types, collections, conditionals, loops, an
 
 | Notebook | Topic |
 |----------|-------|
-| `00_Data_Science_Introduction.ipynb` | Section overview and the data science process |
 | `01_analyzing_macbeth_project.ipynb` | Text analysis project — part 1 |
 | `02_analyzing_macbeth_project.ipynb` | Text analysis project — part 2 |
 | `03_conditionals_lab.ipynb` | Conditional statements lab |
