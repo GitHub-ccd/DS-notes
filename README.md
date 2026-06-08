@@ -15,7 +15,7 @@ Each module is a self-contained folder with sections numbered 01–NN (restartin
 
 ```
 DS-notes/
-├── 01_Python_DataTools/   # 01–10    Python, Pandas, EDA, SQL, APIs, Webscraping
+├── 01_Python_DataTools/   # 01–08    Python, Pandas, EDA, SQL, APIs, Webscraping
 ├── 02_Statistics_Math/    # 01–11    Probability, Statistics, Linear Regression
 ├── 03_Classical_ML/       # 01–12    ML Algorithms (Logistic Reg, Trees, SVM, etc.)
 ├── 04_Deep_Learning/      # 01–14    Advanced ML, Deep Learning, NLP, Cloud ML
@@ -25,28 +25,27 @@ DS-notes/
 ---
 
 ## 01 — Python & Data Tools
-**Sections 01–10**
+**Sections 01–08** (consolidated from original 10 sections)
 
 | Section | Topic |
 |---------|-------|
-| 01 | Data Science Introduction — Python basics, variables, loops, conditionals |
-| 02 | Git & Environment Setup — Bash, Git workflows, PEP8 |
-| 03 | Control Flow, Functions & Statistics — Functions, loops, measures of central tendency & dispersion, correlation |
-| 04 | NumPy, Pandas & Visualization — Arrays, DataFrames, importing data, statistical methods, Pandas plotting |
-| 05 | Data Cleaning — Lambda functions, groupby, merging DataFrames, pivot tables, missing data |
-| 06 | Seaborn & Visualization — Matplotlib customization, Seaborn, data viz best practices |
-| 07 | SQL — Selecting, filtering, joins, subqueries, aggregation, SQL with Pandas |
-| 08 | NoSQL — Document stores, MongoDB CRUD |
-| 09 | JSON & APIs — JSON schemas, transforming data, working with web APIs |
-| 10 | Webscraping — HTML, CSS, BeautifulSoup, scraping in practice |
+| 01 | Tools, Environment & Git — What is DS, Anaconda, Jupyter, Bash, Git workflows, PEP 8 |
+| 02 | Python Fundamentals — Variables, strings, collections, control flow, functions, Macbeth project |
+| 03 | NumPy, Pandas & Visualization — Arrays, DataFrames, importing data, groupby, Matplotlib, Seaborn, EDA project |
+| 04 | Data Cleaning — Lambda functions, groupby, merging DataFrames, pivot tables, missing data |
+| 05 | SQL — Selecting, filtering, joins, subqueries, aggregation, SQL with Pandas |
+| 06 | NoSQL — Document stores, MongoDB CRUD, vector databases |
+| 07 | JSON & APIs — JSON schemas, transforming data, web APIs, LLM APIs |
+| 08 | Web Scraping — HTML, CSS, BeautifulSoup, scraping in practice |
 
 ---
 
 ## 02 — Statistics & Math
-**Sections 01–11**
+**Sections 00–11**
 
 | Section | Topic |
 |---------|-------|
+| 00 | Descriptive Statistics — Mathematical notation, central tendency, dispersion, correlation, implementing statistics |
 | 01 | Combinatorics & Probability — Sets, permutations, combinations, conditional probability |
 | 02 | Statistical Distributions — PMF, PDF, CDF, Binomial, Normal, z-scores, p-values |
 | 03 | Central Limit Theorem — Sampling, CLT, confidence intervals, t-distribution |
@@ -66,7 +65,7 @@ DS-notes/
 
 | Section | Topic |
 |---------|-------|
-| 11 | Object-Oriented Programming — Classes, instances, methods, variables |
+| 01 | Object-Oriented Programming — Classes, instances, methods, variables |
 | 02 | Linear Algebra — Vectors, matrices, linear equations, regression with NumPy |
 | 03 | Calculus & Gradient Descent — Derivatives, gradient descent, cost functions |
 | 04 | Regularization — Ridge, Lasso, feature selection, AIC/BIC |

@@ -1,181 +1,132 @@
-﻿# 01 — Python & Data Tools
+# 01 — Python & Data Tools
 
-Sections 01–10, reorganized into flat per-section notebooks.
+**Sections 01–08** — reorganized from the original 10 sections into 8 clean, consolidated sections.
 
 Each section folder contains:
-- Numbered lesson notebooks: `NN_topic.ipynb`
+- Numbered lesson notebooks: `NN_topic.ipynb` (lesson and practice integrated)
 - `README.md` — section overview and notebook descriptions
-- `assets/` — images and HTML files referenced by notebooks
-- `data/` — CSV, JSON, SQLite and other data files
+- `assets/` — images and HTML files referenced by notebooks (where applicable)
+- `data/` — CSV, JSON, SQLite and other data files (where applicable)
 
 ---
 
-## 01 — Data Science Introduction
-Python fundamentals: variables, strings, numbers, booleans, lists, dictionaries, loops, conditionals, and data visualization. Includes the Analyzing Macbeth project.
+## 01 — Tools, Environment & Git
+Python/data-science toolchain from scratch: what data science is, setting up Anaconda + Jupyter, the command line, Git fundamentals, branching, collaboration, and PEP 8 style.
 
-| # | Notebook |
-|---|----------|
-| 01–02 | Analyzing Macbeth Project |
-| 03–04 | Conditionals |
-| 05–06 | Environment Setup |
-| 07–08 | Data Visualization |
-| 09–10 | Dictionaries |
-| 11 | First Codealong |
-| 12 | Floats, Ints & Booleans |
-| 13 | Introduction to Data Science |
-| 14–15 | Working with Learn Lessons |
-| 16–17 | Lists |
-| 18–19 | Looping Over Collections |
-| 20 | Problems Data Science Can Solve |
-| 21–23 | Strings |
-| 24 | The Data Science Process |
-| 25–26 | Variable Assignment |
+| Notebook | Topic |
+|----------|-------|
+| `01_what_is_data_science.ipynb` | DS problem types, OSEMN framework, types of analytics |
+| `02_environment_setup.ipynb` | Git, Anaconda, conda environments, Jupyter shortcuts |
+| `03_bash_and_command_line.ipynb` | Navigation, file management, pipes, DS shell patterns |
+| `04_git_fundamentals.ipynb` | Three states, core workflow, commit messages, cheat sheet |
+| `05_git_branching_and_collaboration.ipynb` | Branches, merge conflicts, stash, GitHub PR workflow |
+| `06_python_style.ipynb` | PEP 8, naming conventions, import order, auto-formatters |
 
 ---
 
-## 02 — Git & Environment Setup
-Bash shell, Git version control, branching, merging, stashing, collaboration workflows, and PEP8 code style.
+## 02 — Python Fundamentals
+Core Python for data science: types, strings, collections, control flow, functions, and a capstone text analysis project.
 
-| # | Notebook |
-|---|----------|
-| 01 | Bash Shell |
-| 02 | Git & Bash Collab Intro |
-| 03 | Git Branches |
-| 04 | Git Collab Recap |
-| 05–06 | Git Intro & Quiz |
-| 07 | Git Merge Lab |
-| 08 | Git Practice |
-| 09 | Git Resources |
-| 10 | Git Stash Lab |
-| 11 | Git Version Control 101 |
-| 12 | PEP8 Code Style |
+| Notebook | Topic |
+|----------|-------|
+| `01_variables_and_types.ipynb` | Variables, int/float/bool/None, truthiness, type coercion |
+| `02_strings.ipynb` | String methods, f-strings, slicing, data cleaning patterns |
+| `03_collections.ipynb` | Lists, dicts, tuples, sets — creation, indexing, comprehensions |
+| `04_conditionals.ipynb` | if/elif/else, comparison operators, ternary expressions |
+| `05_loops.ipynb` | for/while, enumerate/zip/range, break/continue |
+| `06_functions.ipynb` | def, parameters, *args/**kwargs, scope, lambda, map/filter |
+| `07_operators_and_methods.ipynb` | Built-in functions, operator precedence, file I/O |
+| `08_macbeth_project.ipynb` | Capstone: word frequency analysis of Shakespeare's Macbeth |
 
 ---
 
-## 03 — Control Flow, Functions & Statistics
-While loops, nested loops, functions, arguments, Python I/O, mathematical notation, measures of central tendency and dispersion, covariance and correlation.
+## 03 — NumPy, Pandas & Visualization
+The core data science computing stack: arrays, DataFrames, and the full visualization pipeline.
 
-| # | Notebook |
-|---|----------|
-| 01–02 | Correlation & Covariance |
-| 03–04 | Creating Functions |
-| 05–06 | Functions with Arguments |
-| 07 | Implementing Statistics with Functions Lab |
-| 08 | Mathematical Notation |
-| 09–10 | Measures of Central Tendency |
-| 11–12 | Measures of Dispersion |
-| 13–14 | Python Operators, Functions & Methods |
-| 15 | Section Intro |
-| 16 | Section Recap |
-| 17 | User Input & Output |
-| 18–19 | Nested Loops |
-| 20–21 | While Loops, Break & Continue |
-
----
-
-## 04 — NumPy, Pandas & Visualization
-NumPy arrays, Pandas Series and DataFrames, importing/accessing data, statistical methods, data visualization with Pandas, data ethics, and the Boston Housing EDA project.
-
-| # | Notebook |
-|---|----------|
-| 01–02 | Accessing Data with Pandas |
-| 03 | Data Ethics |
-| 04 | Data Visualization with Pandas |
-| 05–06 | Getting Started with NumPy |
-| 07–08 | Importing Data with Pandas |
-| 09 | Introducing Python Libraries |
-| 10 | Introduction to NumPy |
-| 11 | Kaggle & Boston Housing Dataset |
-| 12 | Section Intro |
-| 13 | Section Recap |
-| 14–15 | Pandas Series & DataFrames |
-| 16–17 | Project — EDA with Pandas |
-| 18–19 | Statistical Methods in Pandas |
+| Notebook | Topic |
+|----------|-------|
+| `01_python_libraries_intro.ipynb` | Stack overview, import conventions, API exploration |
+| `02_numpy.ipynb` | Arrays, dtypes, vectorized math, broadcasting, indexing |
+| `03_pandas_data_structures.ipynb` | Series, DataFrames, creation patterns, index alignment |
+| `04_pandas_data_access.ipynb` | `.loc[]`, `.iloc[]`, boolean indexing, `.query()` |
+| `05_importing_data.ipynb` | `read_csv`, JSON, Excel, SQL; key parameters, post-load checklist |
+| `06_statistical_analysis_with_pandas.ipynb` | `.describe()`, `.groupby()`, correlation, `.apply()` |
+| `07_data_ethics.ipynb` | Bias taxonomy, protected attributes, fairness metrics |
+| `08_visualization_with_pandas.ipynb` | `.plot()` API: line, bar, hist, scatter, box |
+| `09_visualization_best_practices.ipynb` | Encoding hierarchy, misleading charts, accessibility |
+| `10_matplotlib.ipynb` | Figure/Axes architecture, multi-panel layouts, annotations |
+| `11_seaborn.ipynb` | Relational, distributional, categorical plots; heatmaps, facets |
+| `12_eda_project.ipynb` | Capstone: full EDA on King County house sales (OSEMN) |
 
 ---
 
-## 05 — Data Cleaning
-Lambda functions, groupby, combining DataFrames, pivot tables, handling missing data, and a data cleaning project. Includes a study group codealong on groupby.
+## 04 — Data Cleaning
+Lambda functions, groupby, combining DataFrames, pivot tables, and handling missing data.
 
-| # | Notebook |
-|---|----------|
-| 01–02 | Combining DataFrames with Pandas |
+| Notebook | Topic |
+|----------|-------|
+| 01–02 | Combining DataFrames (concat, merge, join) |
 | 03 | Data Cleaning Project |
 | 04–05 | Dealing with Missing Data |
 | 07 | Introduction — Pandas ETL |
 | 08–09 | Lambda Functions |
 | 10–11 | More on Missing Data |
-| 12 | Pandas Groupby |
+| 12 | Pandas GroupBy |
 | 13–14 | Pivot Tables |
 | 15 | Section Recap |
 
 ---
 
-## 06 — Seaborn & Visualization
-Matplotlib customization, subplots, data viz best practices, and Seaborn. Includes a Plotly special lecture notebook.
+## 05 — SQL
+SQL fundamentals: selecting, filtering, ordering, grouping, joins, subqueries, database administration, and using SQL with Pandas.
 
-| # | Notebook |
-|---|----------|
-| 01 | Data Viz Best Practices & Common Mistakes |
-| 02–03 | Customizing Visualizations with Matplotlib |
-| 04–05 | Seaborn |
-| 06 | Subplots & Enumeration Lab |
-| 07 | Section Intro |
-| 08 | Section Recap |
-
----
-
-## 07 — SQL
-SQL fundamentals: selecting, filtering, ordering, grouping, joins (one-to-many, many-to-many), subqueries, database administration, data types, and using SQL with Pandas.
-
-| # | Notebook |
-|---|----------|
+| Notebook | Topic |
+|----------|-------|
 | 01–02 | Database Admin 101 |
 | 03–04 | Filtering & Ordering |
 | 05–06 | Grouping Data |
 | 07–08 | Join Statements |
-| 09 | More Practice with SQL Queries Lab |
+| 09 | More Practice with SQL Queries |
 | 10–11 | One-to-Many & Many-to-Many Joins |
 | 12–13 | Selecting Data |
-| 14 | SQL Database Data Types |
+| 14 | SQL Data Types |
 | 15–16 | SQL Interview Questions |
 | 17 | SQL Introduction |
-| 18 | SQL Recap |
-| 19–20 | SQL Subqueries |
+| 19–20 | Subqueries |
 | 21–22 | Using SQL with Pandas |
 
 ---
 
-## 08 — NoSQL
-NoSQL database concepts, document stores, and MongoDB (CRUD operations).
+## 06 — NoSQL
+NoSQL database concepts, document stores, MongoDB, and vector databases.
 
-| # | Notebook |
-|---|----------|
+| Notebook | Topic |
+|----------|-------|
 | 01 | MongoDB Lab |
 | 02 | MongoDB |
-| 03 | Section Intro |
-| 04 | Section Recap |
 | 05 | NoSQL Document Stores |
+| 06 | Vector Databases |
 
 ---
 
-## 09 — JSON & APIs
-JSON format, known and unknown JSON schemas, transforming JSON data, and working with web APIs.
+## 07 — JSON & APIs
+JSON format, known and unknown JSON schemas, transforming JSON data, web APIs, and LLM APIs.
 
-| # | Notebook |
-|---|----------|
+| Notebook | Topic |
+|----------|-------|
 | 01–02 | Exploring & Transforming JSON Schemas |
 | 03 | JSON & APIs Intro |
 | 04–05 | JSON |
 | 06–07 | Working with Known JSON Schemas |
+| 08 | LLM APIs |
 
 ---
 
-## 10 — Web Scraping
+## 08 — Web Scraping
 HTML and CSS fundamentals, BeautifulSoup, and scraping real websites with Python.
 
-| # | Notebook |
-|---|----------|
+| Notebook | Topic |
+|----------|-------|
 | 01 | CSS Code Along |
 | 02 | HTML & CSS Scraping Intro |
 | 03 | HTML & CSS Scraping Recap |
@@ -185,6 +136,5 @@ HTML and CSS fundamentals, BeautifulSoup, and scraping real websites with Python
 | 09 | Scraping Concerts Lab |
 | 10 | Scraping Images |
 | 11 | Separating Content & Presentation |
-| 12 | Web Scraping in Practice |
-| 13 | Web Scraping Lab |
+| 12–13 | Web Scraping in Practice + Lab |
 | 14 | Web Scraping with Beautiful Soup |
