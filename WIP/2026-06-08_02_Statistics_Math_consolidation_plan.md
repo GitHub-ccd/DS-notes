@@ -25,7 +25,7 @@ Module 02 was editorially reviewed in a previous session (summaries rewritten, s
 | Section | Approx. files | Status |
 |---------|--------------|--------|
 | `00_Descriptive_Statistics` | 5 | ✅ Done (prior session) |
-| `01_Combinatorics_Probability` | 14 | ⬜ Pending |
+| `01_Combinatorics_Probability` | 14 → 5 | ✅ Done |
 | `02_Statistical_Distributions` | 17 | ⬜ Pending |
 | `03_Central_Limit_Theorem` | 7 | ⬜ Pending |
 | `04_Hypothesis_Testing` | 11 | ⬜ Pending |
@@ -48,30 +48,38 @@ Section plans are filled in after auditing each section's files. Audit first, pl
 
 ### 01 — Combinatorics & Probability
 
-*Audit pending.*
+✅ **Complete.**
 
 **Source files (14):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_combinations_lab.ipynb` | Lab | |
-| `02_combinations.ipynb` | Lesson | |
-| `03_conditional_probability_lab.ipynb` | Lab | |
-| `04_conditional_probability.ipynb` | Lesson | |
-| `05_intro_to_probability_lab.ipynb` | Lab | |
-| `06_intro_to_probability.ipynb` | Lesson | |
-| `07_intro_to_sets_lab.ipynb` | Lab | |
-| `08_intro_to_sets.ipynb` | Lesson | |
-| `09_law_of_total_probability_lab.ipynb` | Lab | |
-| `10_law_of_total_probability.ipynb` | Lesson | |
-| `11_permutations_and_factorials_lab.ipynb` | Lab | |
-| `12_permutations_and_factorials.ipynb` | Lesson | |
-| `13_probability_introduction.ipynb` | Intro | |
-| `16_probability_simulations_lab.ipynb` | Lab | |
+| `01_combinations_lab.ipynb` | Lab | Combinations |
+| `02_combinations.ipynb` | Lesson | Combinations |
+| `03_conditional_probability_lab.ipynb` | Lab | Conditional probability |
+| `04_conditional_probability.ipynb` | Lesson | Conditional probability |
+| `05_intro_to_probability_lab.ipynb` | Lab | Probability basics |
+| `06_intro_to_probability.ipynb` | Lesson | Probability basics |
+| `07_intro_to_sets_lab.ipynb` | Lab | Sets |
+| `08_intro_to_sets.ipynb` | Lesson | Sets |
+| `09_law_of_total_probability_lab.ipynb` | Lab | Law of total probability |
+| `10_law_of_total_probability.ipynb` | Lesson | Law of total probability |
+| `11_permutations_and_factorials_lab.ipynb` | Lab | Permutations & factorials |
+| `12_permutations_and_factorials.ipynb` | Lesson | Permutations & factorials |
+| `13_probability_introduction.ipynb` | Intro | **DROPPED** (thin section intro) |
+| `16_probability_simulations_lab.ipynb` | Lab | Total probability simulations |
 
-**New structure:** *(to be designed after audit)*
+**New structure (5 notebooks):**
 
-**Result:** *(TBD)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_sets.ipynb` | 08 + 07 | 52 |
+| `02_probability_basics.ipynb` | 06 + 05 | 59 |
+| `03_permutations_and_combinations.ipynb` | 12 + 11 + 02 + 01 | 76 |
+| `04_conditional_probability.ipynb` | 04 + 03 | 16 |
+| `05_law_of_total_probability.ipynb` | 10 + 09 + 16 | 44 |
+
+**Result:** 14 → 5 (drop 1, consolidate 13 → 4 active = 3.25:1)
 
 ---
 
@@ -359,7 +367,7 @@ Note: The Appendix mixes supplementary stats content (distributions, Monte Carlo
 | Section | Before | After | Δ | Commit |
 |---------|--------|-------|---|--------|
 | 00 Descriptive Statistics | 8 | 5 | −3 | (prior session) |
-| 01 Combinatorics & Probability | 14 | TBD | TBD | |
+| 01 Combinatorics & Probability | 14 | 5 | −9 | TBD |
 | 02 Statistical Distributions | 17 | TBD | TBD | |
 | 03 Central Limit Theorem | 7 | TBD | TBD | |
 | 04 Hypothesis Testing | 11 | TBD | TBD | |
