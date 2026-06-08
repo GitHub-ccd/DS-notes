@@ -12,3 +12,4 @@ The technical foundation for data science work: understanding the field, setting
 | `04_git_fundamentals.ipynb` | Version control concepts, init/add/commit/push/pull |
 | `05_git_branching_and_collaboration.ipynb` | Branches, merge conflicts, stash, GitHub PR workflow |
 | `06_python_style.ipynb` | PEP 8 — naming, indentation, imports, automated linting |
+| `07_vscode.ipynb` | VSCode UI, Command Palette, shortcuts, Python/Jupyter integration, debugger |
