@@ -26,7 +26,7 @@ Module 02 was editorially reviewed in a previous session (summaries rewritten, s
 |---------|--------------|--------|
 | `00_Descriptive_Statistics` | 5 | ✅ Done (prior session) |
 | `01_Combinatorics_Probability` | 14 → 5 | ✅ Done |
-| `02_Statistical_Distributions` | 17 | ⬜ Pending |
+| `02_Statistical_Distributions` | 17 → 5 | ✅ Done |
 | `03_Central_Limit_Theorem` | 7 | ⬜ Pending |
 | `04_Hypothesis_Testing` | 11 | ⬜ Pending |
 | `05_Stat_ANOVA` | 13 | ⬜ Pending |
@@ -85,34 +85,42 @@ Section plans are filled in after auditing each section's files. Audit first, pl
 
 ### 02 — Statistical Distributions
 
-*Audit pending.*
+✅ **Complete.**
 
-**Source files (17 + 1 subdirectory):**
+**Source files (17 + 1 subdirectory, dropped):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_bernoulli_and_binomial_distribution_lab.ipynb` | Lab | |
-| `02_bernoulli_and_binomial_distribution.ipynb` | Lesson | |
-| `03_cumulative_distribution_function_lab.ipynb` | Lab | |
-| `04_cumulative_distribution_function.ipynb` | Lesson | |
-| `07_normal_distribution_lab.ipynb` | Lab | |
-| `08_normal_distribution.ipynb` | Lesson | |
-| `09_one_sample_z_test_lab.ipynb` | Lab | |
-| `10_one_sample_z_test.ipynb` | Lesson | |
-| `11_probability_density_function.ipynb` | Lesson | |
-| `12_probability_mass_function_lab.ipynb` | Lab | |
-| `13_probability_mass_function.ipynb` | Lesson | |
-| `14_skewness_and_kurtosis_lab.ipynb` | Lab | |
-| `15_skewness_and_kurtosis.ipynb` | Lesson | |
-| `16_standard_normal_distribution_lab.ipynb` | Lab | |
-| `17_standard_normal_distribution.ipynb` | Lesson | |
-| `18_stat_distributions_use_cases.ipynb` | Conceptual | |
-| `19_z_score_p_value.ipynb` | Lesson | |
-| `probability-density-functions-lab-onl01-dtsc-ft-030220/` | Old lab dir | investigate |
+| `01_bernoulli_and_binomial_distribution_lab.ipynb` | Lab | Bernoulli & Binomial |
+| `02_bernoulli_and_binomial_distribution.ipynb` | Lesson | Bernoulli & Binomial |
+| `03_cumulative_distribution_function_lab.ipynb` | Lab | CDF |
+| `04_cumulative_distribution_function.ipynb` | Lesson | CDF |
+| `07_normal_distribution_lab.ipynb` | Lab | Normal distribution |
+| `08_normal_distribution.ipynb` | Lesson | Normal distribution |
+| `09_one_sample_z_test_lab.ipynb` | Lab | One-sample z-test |
+| `10_one_sample_z_test.ipynb` | Lesson | One-sample z-test |
+| `11_probability_density_function.ipynb` | Lesson | PDF (no lab) |
+| `12_probability_mass_function_lab.ipynb` | Lab | PMF (class size paradox) |
+| `13_probability_mass_function.ipynb` | Lesson | PMF |
+| `14_skewness_and_kurtosis_lab.ipynb` | Lab | Skewness & kurtosis |
+| `15_skewness_and_kurtosis.ipynb` | Lesson | Skewness & kurtosis |
+| `16_standard_normal_distribution_lab.ipynb` | Lab | Standard normal |
+| `17_standard_normal_distribution.ipynb` | Lesson | Standard normal & z-score |
+| `18_stat_distributions_use_cases.ipynb` | Conceptual | Distribution types overview |
+| `19_z_score_p_value.ipynb` | Lesson | z-score, p-value, hypotheses |
+| `probability-density-functions-lab-onl01-dtsc-ft-030220/` | **DROPPED** | Old Learn.co artifact |
 
-**New structure:** *(to be designed after audit)*
+**New structure (5 notebooks):**
 
-**Result:** *(TBD)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_distribution_functions.ipynb` | 18 + 13 + 12 + 11 + 04 + 03 | 81 |
+| `02_bernoulli_and_binomial.ipynb` | 02 + 01 | 36 |
+| `03_normal_distribution.ipynb` | 08 + 07 + 17 + 16 | 41 |
+| `04_skewness_and_kurtosis.ipynb` | 15 + 14 | 12 |
+| `05_z_test_and_hypothesis_testing.ipynb` | 19 + 10 + 09 | 22 |
+
+**Result:** 17 → 5 (drop 1 dir, consolidate 17 → 5 = 3.4:1)
 
 ---
 
@@ -368,7 +376,7 @@ Note: The Appendix mixes supplementary stats content (distributions, Monte Carlo
 |---------|--------|-------|---|--------|
 | 00 Descriptive Statistics | 8 | 5 | −3 | (prior session) |
 | 01 Combinatorics & Probability | 14 | 5 | −9 | TBD |
-| 02 Statistical Distributions | 17 | TBD | TBD | |
+| 02 Statistical Distributions | 17 | 5 | −12 | TBD |
 | 03 Central Limit Theorem | 7 | TBD | TBD | |
 | 04 Hypothesis Testing | 11 | TBD | TBD | |
 | 05 ANOVA & Statistical Power | 13 | TBD | TBD | |
