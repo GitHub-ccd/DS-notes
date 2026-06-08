@@ -30,7 +30,7 @@ DS-notes/
 | Section | Topic |
 |---------|-------|
 | 01 | Tools, Environment & Git — What is DS, Anaconda, Jupyter, Bash, Git workflows, PEP 8 |
-| 02 | Python Fundamentals — Variables, strings, collections, control flow, functions, Macbeth project |
+| 02 | Python Fundamentals — Variables, strings, collections, control flow, functions, classes, Macbeth project |
 | 03 | NumPy, Pandas & Visualization — Arrays, DataFrames, importing data, groupby, Matplotlib, Seaborn, EDA project |
 | 04 | Data Cleaning — Lambda functions, groupby, merging DataFrames, pivot tables, missing data |
 | 05 | SQL — Selecting, filtering, joins, subqueries, aggregation, SQL with Pandas |
@@ -61,22 +61,21 @@ DS-notes/
 ---
 
 ## 03 — Classical ML
-**Sections 01–12**
+**Sections 01–11**
 
 | Section | Topic |
 |---------|-------|
-| 01 | Object-Oriented Programming — Classes, instances, methods, variables |
-| 02 | Linear Algebra — Vectors, matrices, linear equations, regression with NumPy |
-| 03 | Calculus & Gradient Descent — Derivatives, gradient descent, cost functions |
-| 04 | Regularization — Ridge, Lasso, feature selection, AIC/BIC |
-| 05 | Logistic Regression & Evaluation — Confusion matrices, ROC/AUC, class imbalance |
-| 06 | MLE & Logistic Regression (Deep Dive) — Coding from scratch, gradient descent review |
-| 07 | K-Nearest Neighbors — Distance metrics, finding best K, Scikit-Learn implementation |
-| 08 | Naive Bayes — Bayesian classifiers, document classification, Gaussian Naive Bayes |
-| 09 | Decision Trees — ID3, entropy, CART, Scikit-Learn, tuning |
-| 10 | Ensemble Methods — Random forests, gradient boosting, XGBoost, GridSearchCV |
-| 11 | Support Vector Machines — SVM theory, kernel trick, Scikit-Learn |
-| 12 | Pipelines — Scikit-Learn pipelines for end-to-end ML workflows |
+| 01 | Linear Algebra — Vectors, matrices, linear equations, regression with NumPy |
+| 02 | Calculus & Gradient Descent — Derivatives, gradient descent, cost functions |
+| 03 | Regularization — Ridge, Lasso, feature selection, AIC/BIC |
+| 04 | Logistic Regression & Evaluation — Confusion matrices, ROC/AUC, class imbalance |
+| 05 | MLE & Logistic Regression (Deep Dive) — Coding from scratch, gradient descent review |
+| 06 | K-Nearest Neighbors — Distance metrics, finding best K, Scikit-Learn implementation |
+| 07 | Naive Bayes — Bayesian classifiers, document classification, Gaussian Naive Bayes |
+| 08 | Decision Trees — ID3, entropy, CART, Scikit-Learn, tuning |
+| 09 | Ensemble Methods — Random forests, gradient boosting, XGBoost, GridSearchCV |
+| 10 | Support Vector Machines — SVM theory, kernel trick, Scikit-Learn |
+| 11 | Pipelines — Scikit-Learn pipelines for end-to-end ML workflows |
 
 ---
 

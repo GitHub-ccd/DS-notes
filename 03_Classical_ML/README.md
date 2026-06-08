@@ -1,6 +1,6 @@
 ﻿# 03 — Classical ML
 
-Sections 01–12, reorganized into flat per-section notebooks.
+Sections 01–11, reorganized into flat per-section notebooks.
 
 Each section folder contains:
 - Numbered lesson notebooks: `NN_topic.ipynb`
@@ -10,19 +10,7 @@ Each section folder contains:
 
 ---
 
-## 01 — Object-Oriented Programming
-Classes, instances, instance methods, and instance variables in Python.
-
-| # | Notebook |
-|---|----------|
-| 01–02 | Classes & Instances |
-| 03–04 | Instance Methods |
-| 05 | Instance Variables Lab |
-| 06 | Introduction to Object Orientation |
-
----
-
-## 02 — Linear Algebra
+## 01 — Linear Algebra
 Scalars, vectors, matrices, tensors, linear equations, matrix multiplication, computational complexity, and regression with NumPy.
 
 | # | Notebook |
@@ -40,7 +28,7 @@ Scalars, vectors, matrices, tensors, linear equations, matrix multiplication, co
 
 ---
 
-## 03 — Calculus & Gradient Descent
+## 02 — Calculus & Gradient Descent
 Derivatives, rules for differentiation, non-linear functions, gradient descent (intro, step sizes, 3D, cost function), and applying gradient descent.
 
 | # | Notebook |
@@ -60,7 +48,7 @@ Derivatives, rules for differentiation, non-linear functions, gradient descent (
 
 ---
 
-## 04 — Regularization
+## 03 — Regularization
 Feature selection (AIC, BIC, methods), generating data, Ridge and Lasso regression, and extensions to linear models.
 
 | # | Notebook |
@@ -75,7 +63,7 @@ Feature selection (AIC, BIC, methods), generating data, Ridge and Lasso regressi
 
 ---
 
-## 05 — Logistic Regression & Evaluation Metrics
+## 04 — Logistic Regression & Evaluation Metrics
 Supervised learning intro, logistic regression, confusion matrices, evaluation metrics, ROC/AUC curves, and class imbalance.
 
 | # | Notebook |
@@ -94,7 +82,7 @@ Supervised learning intro, logistic regression, confusion matrices, evaluation m
 
 ---
 
-## 06 — MLE & Logistic Regression (Deep Dive)
+## 05 — MLE & Logistic Regression (Deep Dive)
 Coding logistic regression from scratch, gradient descent review, logistic regression model comparisons, and MLE.
 
 | # | Notebook |
@@ -110,7 +98,7 @@ Coding logistic regression from scratch, gradient descent review, logistic regre
 
 ---
 
-## 07 — K-Nearest Neighbors
+## 06 — K-Nearest Neighbors
 Distance metrics, KNN algorithm, finding the best K, and KNN with Scikit-Learn.
 
 | # | Notebook |
@@ -124,7 +112,7 @@ Distance metrics, KNN algorithm, finding the best K, and KNN with Scikit-Learn.
 
 ---
 
-## 08 — Naive Bayes
+## 07 — Naive Bayes
 Bayesian classification, classifiers with Bayes, document classification (Naive Bayes), and Gaussian Naive Bayes.
 
 | # | Notebook |
@@ -137,7 +125,7 @@ Bayesian classification, classifiers with Bayes, document classification (Naive 
 
 ---
 
-## 09 — Decision Trees
+## 08 — Decision Trees
 Introduction to decision trees, entropy & information gain, ID3 algorithm, Scikit-Learn implementation, regression CART trees, and tuning.
 
 | # | Notebook |
@@ -155,7 +143,7 @@ Introduction to decision trees, entropy & information gain, ID3 algorithm, Sciki
 
 ---
 
-## 10 — Ensemble Methods
+## 09 — Ensemble Methods
 Ensemble methods, random forests, gradient boosting, XGBoost, and GridSearchCV hyperparameter tuning.
 
 | # | Notebook |
@@ -173,7 +161,7 @@ Ensemble methods, random forests, gradient boosting, XGBoost, and GridSearchCV h
 
 ---
 
-## 11 — Support Vector Machines
+## 10 — Support Vector Machines
 SVM theory, building SVMs from scratch, Scikit-Learn implementation, and the kernel trick.
 
 | # | Notebook |
@@ -188,7 +176,7 @@ SVM theory, building SVMs from scratch, Scikit-Learn implementation, and the ker
 
 ---
 
-## 12 — Pipelines
+## 11 — Pipelines
 Building and using Scikit-Learn pipelines for streamlined ML workflows.
 
 | # | Notebook |

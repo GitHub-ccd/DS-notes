@@ -14,3 +14,4 @@ Core Python for data science: scalar types, strings, collections, control flow, 
 | `06_functions.ipynb` | def, parameters, *args/**kwargs, scope, lambda, map/filter |
 | `07_operators_and_methods.ipynb` | Built-in functions, operator precedence, file I/O |
 | `08_macbeth_project.ipynb` | Capstone: word frequency analysis of Shakespeare's Macbeth |
+| `09_classes_and_oop.ipynb` | Classes, instances, `__init__`, instance methods, `self`, class attributes |
