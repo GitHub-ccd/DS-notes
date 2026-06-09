@@ -126,77 +126,99 @@ Section plans are filled in after auditing each section's files. Audit first, pl
 
 ### 03 — Central Limit Theorem
 
-*Audit pending.*
+✅ **Complete.** Commit: `7aeee85`
 
 **Source files (7):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_central_limit_theorem_lab.ipynb` | Lab | |
-| `02_central_limit_theorem.ipynb` | Lesson | |
-| `03_confidence_intervals_lab.ipynb` | Lab | |
-| `06_intervals_with_t_distribution_lab.ipynb` | Lab | |
-| `07_intervals_with_t_distribution.ipynb` | Lesson | |
-| `08_introduction_to_sampling.ipynb` | Lesson | |
-| `09_sampling_statistics_lab.ipynb` | Lab | |
+| `01_central_limit_theorem_lab.ipynb` | Lab | CLT practice |
+| `02_central_limit_theorem.ipynb` | Lesson | CLT theory |
+| `03_confidence_intervals_lab.ipynb` | Lab | Confidence intervals |
+| `06_intervals_with_t_distribution_lab.ipynb` | Lab | t-distribution intervals |
+| `07_intervals_with_t_distribution.ipynb` | Lesson | t-distribution intervals |
+| `08_introduction_to_sampling.ipynb` | Lesson | Sampling intro |
+| `09_sampling_statistics_lab.ipynb` | Lab | Sampling statistics |
 
-**New structure:** *(to be designed after audit)*
+**New structure (3 notebooks):**
 
-**Result:** *(TBD)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_central_limit_theorem.ipynb` | 08 + 02 + 01 + 09 | 70 |
+| `02_confidence_intervals.ipynb` | 03 | 22 |
+| `03_t_distribution_intervals.ipynb` | 07 + 06 | 37 |
+
+**Result:** 7 → 3 (2.3:1)
 
 ---
 
 ### 04 — Hypothesis Testing
 
-*Audit pending.*
+✅ **Complete.** Commit: `11bac2d`
 
 **Source files (11):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_effect_sizes.ipynb` | Lesson | |
-| `02_experimental_design.ipynb` | Lesson | |
-| `03_hypothesis_testing_intro.ipynb` | Intro | |
-| `05_one_sample_t_tests_lab.ipynb` | Lab | |
-| `06_p_values_and_null_hypothesis.ipynb` | Lesson | |
-| `07_resampling_methods_lab.ipynb` | Lab | |
-| `08_resampling_methods.ipynb` | Lesson | |
-| `09_t_tests.ipynb` | Lesson | |
-| `10_two_sample_t_tests_lab.ipynb` | Lab | |
-| `11_type_1_and_2_error_lab.ipynb` | Lab | |
-| `12_type_1_and_2_error.ipynb` | Lesson | |
+| `01_effect_sizes.ipynb` | Lesson | Effect size |
+| `02_experimental_design.ipynb` | Lesson | Experimental design |
+| `03_hypothesis_testing_intro.ipynb` | Intro | **DROPPED** |
+| `05_one_sample_t_tests_lab.ipynb` | Lab | One-sample t-test |
+| `06_p_values_and_null_hypothesis.ipynb` | Lesson | P-values |
+| `07_resampling_methods_lab.ipynb` | Lab | Resampling |
+| `08_resampling_methods.ipynb` | Lesson | Resampling |
+| `09_t_tests.ipynb` | Lesson | T-tests |
+| `10_two_sample_t_tests_lab.ipynb` | Lab | Two-sample t-test |
+| `11_type_1_and_2_error_lab.ipynb` | Lab | Type I/II errors |
+| `12_type_1_and_2_error.ipynb` | Lesson | Type I/II errors |
 
-**New structure:** *(to be designed after audit)*
+**New structure (5 notebooks):**
 
-**Result:** *(TBD)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_hypothesis_testing_foundations.ipynb` | 02 + 06 | 3 |
+| `02_effect_size.ipynb` | 01 | 57 |
+| `03_t_tests.ipynb` | 09 + 05 + 10 | 43 |
+| `04_type_1_and_2_errors.ipynb` | 12 + 11 | 35 |
+| `05_resampling_methods.ipynb` | 08 + 07 | 15 |
+
+**Result:** 11 → 5 (drop 1, consolidate 10 → 5 = 2.2:1)
 
 ---
 
 ### 05 — ANOVA & Statistical Power
 
-*Audit pending.*
+✅ **Complete.** Commit: `cd20183`
 
 **Source files (13):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_anova_lab.ipynb` | Lab | |
-| `02_anova.ipynb` | Lesson | |
-| `03_effect_sizes_pvalues_and_power_lab.ipynb` | Lab | |
-| `04_goodharts_law_and_metric_tracking.ipynb` | Conceptual | |
-| `05_kolmogorov_smirnov_test.ipynb` | Lesson | |
-| `06_komogorov_smirnov_test_lab.ipynb` | Lab | |
-| `07_multiple_comparisons_problem.ipynb` | Lesson | |
-| `08_statistical_power_anova_introduction.ipynb` | Intro | |
-| `09_statistical_power_anova_recap.ipynb` | Recap | |
-| `10_statistical_power_lab.ipynb` | Lab | |
-| `11_statistical_power.ipynb` | Lesson | |
-| `12_welchs_ttest_lab.ipynb` | Lab | |
-| `13_welchs_ttest.ipynb` | Lesson | |
+| `01_anova_lab.ipynb` | Lab | ANOVA |
+| `02_anova.ipynb` | Lesson | ANOVA |
+| `03_effect_sizes_pvalues_and_power_lab.ipynb` | Lab | Effect size + power simulations |
+| `04_goodharts_law_and_metric_tracking.ipynb` | Conceptual | Goodhart's law |
+| `05_kolmogorov_smirnov_test.ipynb` | Lesson | KS test |
+| `06_komogorov_smirnov_test_lab.ipynb` | Lab | KS test |
+| `07_multiple_comparisons_problem.ipynb` | Lesson | Multiple comparisons |
+| `08_statistical_power_anova_introduction.ipynb` | Intro | **DROPPED** |
+| `09_statistical_power_anova_recap.ipynb` | Recap | **DROPPED** |
+| `10_statistical_power_lab.ipynb` | Lab | Statistical power |
+| `11_statistical_power.ipynb` | Lesson | Statistical power |
+| `12_welchs_ttest_lab.ipynb` | Lab | Welch's t-test |
+| `13_welchs_ttest.ipynb` | Lesson | Welch's t-test |
 
-**New structure:** *(to be designed after audit)*
+**New structure (5 notebooks):**
 
-**Result:** *(TBD)*
+| New file | Sources | Notes |
+|----------|---------|-------|
+| `01_anova.ipynb` | 02 + 01 | ANOVA lesson + lab |
+| `02_statistical_power.ipynb` | 11 + 10 + 03 | Power lesson + two practice labs |
+| `03_welchs_ttest.ipynb` | 13 + 12 | Welch's t-test lesson + lab |
+| `04_ks_test.ipynb` | 05 + 06 | KS test lesson + lab |
+| `05_multiple_comparisons.ipynb` | 07 + 04 | Multiple comparisons + Goodhart's law |
+
+**Result:** 13 → 5 (drop 2, consolidate 11 → 5 = 2.2:1)
 
 ---
 
@@ -377,9 +399,9 @@ Note: The Appendix mixes supplementary stats content (distributions, Monte Carlo
 | 00 Descriptive Statistics | 8 | 5 | −3 | (prior session) |
 | 01 Combinatorics & Probability | 14 | 5 | −9 | TBD |
 | 02 Statistical Distributions | 17 | 5 | −12 | TBD |
-| 03 Central Limit Theorem | 7 | TBD | TBD | |
-| 04 Hypothesis Testing | 11 | TBD | TBD | |
-| 05 ANOVA & Statistical Power | 13 | TBD | TBD | |
+| 03 Central Limit Theorem | 7 | 3 | −4 | `7aeee85` |
+| 04 Hypothesis Testing | 11 | 5 | −6 | `11bac2d` |
+| 05 ANOVA & Statistical Power | 13 | 5 | −8 | `cd20183` |
 | 06 A/B Testing | 6 | TBD | TBD | |
 | 07 Bayesian Statistics | 8 | TBD | TBD | |
 | 08 Linear Regression | 13 | TBD | TBD | |
