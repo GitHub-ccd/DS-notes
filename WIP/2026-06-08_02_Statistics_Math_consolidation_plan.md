@@ -388,7 +388,7 @@ Section plans are filled in after auditing each section's files. Audit first, pl
 
 ### 11 — Appendix
 
-✅ **Complete.** Commit: `TBD`
+✅ **Complete.** Commit: `18a1a71`
 
 **Source files (20):**
 
@@ -443,5 +443,5 @@ Section plans are filled in after auditing each section's files. Audit first, pl
 | 08 Linear Regression | 13 | 4 | −9 | `39dc5af` |
 | 09 Multiple Regression | 21 | 6 | −15 | `30fb1bf` |
 | 10 Linear Model Extensions | 8 | 3 | −5 | `185aec0` |
-| 11 Appendix | 20 | 4 | −16 | TBD |
+| 11 Appendix | 20 | 4 | −16 | `18a1a71` |
 | **Total** | **146** | **55** | **−91** | |
