@@ -32,10 +32,10 @@ Module 02 was editorially reviewed in a previous session (summaries rewritten, s
 | `05_Stat_ANOVA` | 13 | ⬜ Pending |
 | `06_AB_testing` | 6 | ⬜ Pending |
 | `07_Bayesian_Stat` | 8 | ⬜ Pending |
-| `08_Linear_Regression` | 13 | ⬜ Pending |
-| `09_multiple_regression` | 21 | ⬜ Pending |
-| `10_Linear_Model_Extensions` | 8 | ⬜ Pending |
-| `11_Appendix` | 20 | ⬜ Pending |
+| `08_Linear_Regression` | 13 → 4 | ✅ Done |
+| `09_multiple_regression` | 21 → 6 | ✅ Done |
+| `10_Linear_Model_Extensions` | 8 → 3 | ✅ Done |
+| `11_Appendix` | 20 → 4 | ✅ Done |
 | **Total remaining** | **~138** | |
 
 ---
@@ -224,171 +224,207 @@ Section plans are filled in after auditing each section's files. Audit first, pl
 
 ### 06 — A/B Testing
 
-*Audit pending.*
+✅ **Complete.** Commit: `c3ec1c9`
 
 **Source files (6):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_ab_testing_introduction.ipynb` | Intro | |
-| `02_ab_testing_lab.ipynb` | Lab | |
-| `03_ab_testing.ipynb` | Lesson | |
-| `04_ab_testing_recap.ipynb` | Recap | |
-| `05_in_depth_ab_testing_lab.ipynb` | Lab | |
-| `06_website_ab_testing_lab.ipynb` | Lab | |
+| `01_ab_testing_introduction.ipynb` | Intro | **DROPPED** |
+| `02_ab_testing_lab.ipynb` | Lab | A/B testing basic lab |
+| `03_ab_testing.ipynb` | Lesson | A/B testing theory |
+| `04_ab_testing_recap.ipynb` | Recap | **DROPPED** |
+| `05_in_depth_ab_testing_lab.ipynb` | Lab | In-depth Kaggle survey lab |
+| `06_website_ab_testing_lab.ipynb` | Lab | Website conversion lab |
 
-**New structure:** *(to be designed after audit)*
+**New structure (2 notebooks):**
 
-**Result:** *(TBD)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_ab_testing.ipynb` | 03 + 02 | 15 |
+| `02_ab_testing_advanced.ipynb` | 05 + 06 | 34 |
+
+**Result:** 6 → 2 (drop 2, consolidate 4 → 2 = 2:1)
 
 ---
 
 ### 07 — Bayesian Statistics
 
-*Audit pending.*
+✅ **Complete.** Commit: `b68e550`
 
 **Source files (8):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_bayes_theorem_lab.ipynb` | Lab | |
-| `02_bayes_theorem.ipynb` | Lesson | |
-| `03_bayesian_stats_introduction.ipynb` | Intro | |
-| `04_bayesian_stats_recap.ipynb` | Recap | |
-| `05_bayesians_vs_frequentists.ipynb` | Conceptual | |
-| `06_map_multinomial_bayes.ipynb` | Lesson | |
-| `07_mle.ipynb` | Lesson | |
-| `08_monty_hall_problem_lab.ipynb` | Lab | |
+| `01_bayes_theorem_lab.ipynb` | Lab | Bayes theorem |
+| `02_bayes_theorem.ipynb` | Lesson | Bayes theorem |
+| `03_bayesian_stats_introduction.ipynb` | Intro | **DROPPED** |
+| `04_bayesian_stats_recap.ipynb` | Recap | **DROPPED** |
+| `05_bayesians_vs_frequentists.ipynb` | Conceptual | Frequentist vs Bayesian |
+| `06_map_multinomial_bayes.ipynb` | Lesson | MAP + Multinomial Bayes |
+| `07_mle.ipynb` | Lesson | MLE (28 cells) |
+| `08_monty_hall_problem_lab.ipynb` | Lab | Monty Hall problem |
 
-**New structure:** *(to be designed after audit)*
+**New structure (3 notebooks):**
 
-**Result:** *(TBD)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_bayes_theorem.ipynb` | 02 + 01 | 12 |
+| `02_bayesian_inference.ipynb` | 05 + 06 | 3 |
+| `03_mle.ipynb` | 07 + 08 | 30 |
+
+**Result:** 8 → 3 (drop 2, consolidate 6 → 3 = 2:1)
 
 ---
 
 ### 08 — Linear Regression
 
-*Audit pending.*
+✅ **Complete.** Commit: `39dc5af`
 
 **Source files (13):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_coefficient_of_determination_lab.ipynb` | Lab | |
-| `02_coefficient_of_determination.ipynb` | Lesson | |
-| `03_complete_regression_lab.ipynb` | Lab | |
-| `06_ols_regression_diagnostics.ipynb` | Lesson | |
-| `07_ols_statsmodels_lab.ipynb` | Lab | |
-| `08_ols_statsmodels.ipynb` | Lesson | |
-| `09_regression_assumptions.ipynb` | Lesson | |
-| `10_regression_boston_lab.ipynb` | Lab | |
-| `11_regression_boston_lab.ipynb` | Lab | |
-| `12_significance_p_value.ipynb` | Lesson | |
-| `13_simple_linear_regression_lab.ipynb` | Lab | |
-| `14_simple_linear_regression.ipynb` | Lesson | |
-| `15_stat_learning_theory.ipynb` | Conceptual | |
+| `01_coefficient_of_determination_lab.ipynb` | Lab | R-squared |
+| `02_coefficient_of_determination.ipynb` | Lesson | R-squared |
+| `03_complete_regression_lab.ipynb` | Lab | Complete regression from scratch |
+| `06_ols_regression_diagnostics.ipynb` | Lesson | OLS diagnostics |
+| `07_ols_statsmodels_lab.ipynb` | Lab | OLS with statsmodels |
+| `08_ols_statsmodels.ipynb` | Lesson | OLS with statsmodels |
+| `09_regression_assumptions.ipynb` | Lesson | Regression assumptions |
+| `10_regression_boston_lab.ipynb` | Lab | **DROPPED** (blank duplicate of 11) |
+| `11_regression_boston_lab.ipynb` | Lab | Boston housing diagnostics |
+| `12_significance_p_value.ipynb` | Lesson | Significance & p-values in regression |
+| `13_simple_linear_regression_lab.ipynb` | Lab | Simple linear regression |
+| `14_simple_linear_regression.ipynb` | Lesson | Simple linear regression |
+| `15_stat_learning_theory.ipynb` | Conceptual | Statistical learning theory |
 
-Note: `10` and `11` are both named `regression_boston_lab` — investigate for duplication.
+**New structure (4 notebooks):**
 
-**New structure:** *(to be designed after audit)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_simple_linear_regression.ipynb` | 15 + 14 + 13 | 22 |
+| `02_ols_statsmodels.ipynb` | 08 + 07 + 03 | 52 |
+| `03_model_evaluation.ipynb` | 02 + 01 + 12 | 16 |
+| `04_regression_diagnostics.ipynb` | 09 + 06 + 11 | 36 |
 
-**Result:** *(TBD)*
+**Result:** 13 → 4 (drop 1, consolidate 12 → 4 = 3:1)
 
 ---
 
 ### 09 — Multiple Regression
 
-*Audit pending.*
+✅ **Complete.** Commit: `30fb1bf`
 
 **Source files (21):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_cross_validation_lab.ipynb` | Lab | |
-| `02_cross_validation.ipynb` | Lesson | |
-| `03_data_science_processes.ipynb` | Conceptual | |
-| `04_dealing_with_categorical_variables_lab.ipynb` | Lab | |
-| `05_dealing_with_categorical_variables.ipynb` | Lesson | |
-| `06_feature_scaling_and_normalization_lab.ipynb` | Lab | |
-| `07_feature_scaling_and_normalization.ipynb` | Lesson | |
-| `08_inference_vs_prediction.ipynb` | Conceptual | |
-| `09_log_transformations.ipynb` | Lesson | |
-| `10_model_fit_linear_regression_lab.ipynb` | Lab | |
-| `11_model_fit_linear_regression.ipynb` | Lesson | |
-| `12_multicollinearity_of_features_lab.ipynb` | Lab | |
-| `13_multicollinearity_of_features.ipynb` | Lesson | |
-| `14_multiple_linear_regression_in_statsmodels.ipynb` | Lesson | |
-| `15_multiple_linear_regression.ipynb` | Lesson | |
-| `16_multiple_linear_regression_statsmodels_lab.ipynb` | Lab | |
-| `17_pickle.ipynb` | Lesson | |
-| `18_regression_introduction.ipynb` | Intro | |
-| `19_regression_model_eval_recap.ipynb` | Recap | |
-| `20_regression_model_validation_lab.ipynb` | Lab | |
-| `21_regression_model_validation.ipynb` | Lesson | |
+| `01_cross_validation_lab.ipynb` | Lab | Cross-validation |
+| `02_cross_validation.ipynb` | Lesson | Cross-validation |
+| `03_data_science_processes.ipynb` | Conceptual | **DROPPED** (thin DS workflow overview) |
+| `04_dealing_with_categorical_variables_lab.ipynb` | Lab | Categorical encoding |
+| `05_dealing_with_categorical_variables.ipynb` | Lesson | Categorical encoding |
+| `06_feature_scaling_and_normalization_lab.ipynb` | Lab | Feature scaling |
+| `07_feature_scaling_and_normalization.ipynb` | Lesson | Feature scaling |
+| `08_inference_vs_prediction.ipynb` | Conceptual | Inference vs prediction |
+| `09_log_transformations.ipynb` | Lesson | Log transformations |
+| `10_model_fit_linear_regression_lab.ipynb` | Lab | Model fit |
+| `11_model_fit_linear_regression.ipynb` | Lesson | Model fit & feature selection |
+| `12_multicollinearity_of_features_lab.ipynb` | Lab | Multicollinearity |
+| `13_multicollinearity_of_features.ipynb` | Lesson | Multicollinearity |
+| `14_multiple_linear_regression_in_statsmodels.ipynb` | Lesson | MLR in statsmodels |
+| `15_multiple_linear_regression.ipynb` | Lesson | MLR intro |
+| `16_multiple_linear_regression_statsmodels_lab.ipynb` | Lab | MLR practice |
+| `17_pickle.ipynb` | Lesson | Saving models with pickle |
+| `18_regression_introduction.ipynb` | Intro | **DROPPED** |
+| `19_regression_model_eval_recap.ipynb` | Recap | **DROPPED** |
+| `20_regression_model_validation_lab.ipynb` | Lab | Model validation |
+| `21_regression_model_validation.ipynb` | Lesson | Model validation |
 
-**New structure:** *(to be designed after audit)*
+**New structure (6 notebooks):**
 
-**Result:** *(TBD)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_multiple_linear_regression.ipynb` | 15 + 14 + 16 | 38 |
+| `02_categorical_variables.ipynb` | 05 + 04 | 89 |
+| `03_feature_engineering.ipynb` | 07 + 06 + 09 | 51 |
+| `04_model_diagnostics.ipynb` | 08 + 13 + 12 + 11 + 10 | 78 |
+| `05_model_validation.ipynb` | 21 + 20 | 41 |
+| `06_cross_validation.ipynb` | 02 + 01 + 17 | 53 |
+
+**Result:** 21 → 6 (drop 3, consolidate 18 → 6 = 3:1)
 
 ---
 
 ### 10 — Linear Model Extensions
 
-*Audit pending.*
+✅ **Complete.** Commit: `185aec0`
 
 **Source files (8):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_bias_variance_trade_off_lab.ipynb` | Lab | |
-| `02_bias_variance_trade_off.ipynb` | Lesson | |
-| `03_extensions_to_linear_models_intro.ipynb` | Intro | |
-| `04_extensions_to_linear_models_recap.ipynb` | Recap | |
-| `05_interaction_terms_lab.ipynb` | Lab | |
-| `06_interaction_terms.ipynb` | Lesson | |
-| `07_polynomial_regression_lab.ipynb` | Lab | |
-| `08_polynomial_regression.ipynb` | Lesson | |
+| `01_bias_variance_trade_off_lab.ipynb` | Lab | Bias-variance tradeoff |
+| `02_bias_variance_trade_off.ipynb` | Lesson | Bias-variance tradeoff |
+| `03_extensions_to_linear_models_intro.ipynb` | Intro | **DROPPED** |
+| `04_extensions_to_linear_models_recap.ipynb` | Recap | **DROPPED** |
+| `05_interaction_terms_lab.ipynb` | Lab | Interaction terms |
+| `06_interaction_terms.ipynb` | Lesson | Interaction terms |
+| `07_polynomial_regression_lab.ipynb` | Lab | Polynomial regression |
+| `08_polynomial_regression.ipynb` | Lesson | Polynomial regression |
 
-**New structure:** *(to be designed after audit)*
+**New structure (3 notebooks):**
 
-**Result:** *(TBD)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_bias_variance.ipynb` | 02 + 01 | 80 |
+| `02_interaction_terms.ipynb` | 06 + 05 | 60 |
+| `03_polynomial_regression.ipynb` | 08 + 07 | 50 |
+
+**Result:** 8 → 3 (drop 2, consolidate 6 → 3 = 2:1)
 
 ---
 
 ### 11 — Appendix
 
-*Audit pending.*
+✅ **Complete.** Commit: `TBD`
 
 **Source files (20):**
 
 | File | Type | Topic |
 |------|------|-------|
-| `01_data_science_toolbox_review.ipynb` | Review | |
-| `02_exploring_your_data_lab.ipynb` | Lab | |
-| `03_exploring_your_data.ipynb` | Lesson | |
-| `04_exponential_distribution_lab.ipynb` | Lab | |
-| `05_exponential_distribution.ipynb` | Lesson | |
-| `06_full_ds_regression_intro.ipynb` | Intro | |
-| `07_full_ds_regression_recap.ipynb` | Recap | |
-| `08_modeling_your_data_lab.ipynb` | Lab | |
-| `09_modeling_your_data.ipynb` | Lesson | |
-| `10_monte_carlo_simulations_lab.ipynb` | Lab | |
-| `11_monte_carlo_simulations.ipynb` | Lesson | |
-| `12_obtaining_your_data_lab.ipynb` | Lab | |
-| `13_obtaining_your_data.ipynb` | Lesson | |
-| `14_poisson_distribution_lab.ipynb` | Lab | |
-| `15_poisson_distribution.ipynb` | Lesson | |
-| `16_recursive_functions_lab.ipynb` | Lab | |
-| `17_recursive_functions.ipynb` | Lesson | |
-| `18_scrubbing_and_cleaning_data_lab.ipynb` | Lab | |
-| `19_scrubbing_and_cleaning_data.ipynb` | Lesson | |
-| `20_uniform_distribution.ipynb` | Lesson | |
+| `01_data_science_toolbox_review.ipynb` | Review | DS toolbox overview |
+| `02_exploring_your_data_lab.ipynb` | Lab | Exploratory data analysis |
+| `03_exploring_your_data.ipynb` | Lesson | Exploratory data analysis |
+| `04_exponential_distribution_lab.ipynb` | Lab | Exponential distribution |
+| `05_exponential_distribution.ipynb` | Lesson | Exponential distribution |
+| `06_full_ds_regression_intro.ipynb` | Intro | **DROPPED** |
+| `07_full_ds_regression_recap.ipynb` | Recap | **DROPPED** |
+| `08_modeling_your_data_lab.ipynb` | Lab | Modeling a project |
+| `09_modeling_your_data.ipynb` | Lesson | Modeling a project |
+| `10_monte_carlo_simulations_lab.ipynb` | Lab | Monte Carlo simulations |
+| `11_monte_carlo_simulations.ipynb` | Lesson | Monte Carlo simulations |
+| `12_obtaining_your_data_lab.ipynb` | Lab | Obtaining data |
+| `13_obtaining_your_data.ipynb` | Lesson | Obtaining data |
+| `14_poisson_distribution_lab.ipynb` | Lab | Poisson distribution |
+| `15_poisson_distribution.ipynb` | Lesson | Poisson distribution |
+| `16_recursive_functions_lab.ipynb` | Lab | Recursive functions |
+| `17_recursive_functions.ipynb` | Lesson | Recursive functions |
+| `18_scrubbing_and_cleaning_data_lab.ipynb` | Lab | Scrubbing & cleaning data |
+| `19_scrubbing_and_cleaning_data.ipynb` | Lesson | Scrubbing & cleaning data |
+| `20_uniform_distribution.ipynb` | Lesson | Uniform distribution |
 
-Note: The Appendix mixes supplementary stats content (distributions, Monte Carlo) with practical data science workflow notebooks. Consider whether any content should be promoted to a main section or whether the whole Appendix should be streamlined into a single reference notebook.
+**New structure (4 notebooks):**
 
-**New structure:** *(to be designed after audit)*
+| New file | Sources | Cells |
+|----------|---------|-------|
+| `01_data_workflow.ipynb` | 01 + 13 + 12 + 03 + 02 + 19 + 18 | 67 |
+| `02_modeling_project.ipynb` | 09 + 08 | 67 |
+| `03_probability_distributions.ipynb` | 15 + 14 + 05 + 04 + 20 | 31 |
+| `04_simulation_and_recursion.ipynb` | 11 + 10 + 17 + 16 | 44 |
 
-**Result:** *(TBD)*
+**Result:** 20 → 4 (drop 2, consolidate 18 → 4 = 4.5:1)
 
 ---
 
@@ -402,10 +438,10 @@ Note: The Appendix mixes supplementary stats content (distributions, Monte Carlo
 | 03 Central Limit Theorem | 7 | 3 | −4 | `7aeee85` |
 | 04 Hypothesis Testing | 11 | 5 | −6 | `11bac2d` |
 | 05 ANOVA & Statistical Power | 13 | 5 | −8 | `cd20183` |
-| 06 A/B Testing | 6 | TBD | TBD | |
-| 07 Bayesian Statistics | 8 | TBD | TBD | |
-| 08 Linear Regression | 13 | TBD | TBD | |
-| 09 Multiple Regression | 21 | TBD | TBD | |
-| 10 Linear Model Extensions | 8 | TBD | TBD | |
-| 11 Appendix | 20 | TBD | TBD | |
-| **Total** | **146** | TBD | TBD | |
+| 06 A/B Testing | 6 | 2 | −4 | `c3ec1c9` |
+| 07 Bayesian Statistics | 8 | 3 | −5 | `b68e550` |
+| 08 Linear Regression | 13 | 4 | −9 | `39dc5af` |
+| 09 Multiple Regression | 21 | 6 | −15 | `30fb1bf` |
+| 10 Linear Model Extensions | 8 | 3 | −5 | `185aec0` |
+| 11 Appendix | 20 | 4 | −16 | TBD |
+| **Total** | **146** | **55** | **−91** | |
